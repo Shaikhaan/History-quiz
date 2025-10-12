@@ -1,0 +1,33 @@
+{
+    "country": "Ottoman Empire",
+    "level": 5,
+    "title": "The Empire in Crisis and Collapse",
+    "readingFile": "ottoman-level5.md",
+    "questions": [
+        { "question": "What was the name of the 19th-century reform era in the Ottoman Empire?", "choices": ["Tulip Period", "Tanzimat", "Sultanate Revival", "Constitutional Phase"], "answer": "Tanzimat" },
+        { "question": "What year marked the official beginning of the Tanzimat reforms?", "choices": ["1826", "1839", "1856", "1876"], "answer": "1839" },
+        { "question": "What was the goal of the Tanzimat reforms?", "choices": ["Expand empire", "Preserve Islamic purity", "Modernize administration and military", "Colonize Europe"], "answer": "Modernize administration and military" },
+        { "question": "Which sultan abolished the Janissary corps?", "choices": ["Selim III", "Mahmud II", "Abdulhamid II", "Ahmed III"], "answer": "Mahmud II" },
+        { "question": "What was the name of the edict that launched the Tanzimat?", "choices": ["Decree of Janissary Abolition", "Sultan’s Mandate", "Hatt-i Sharif of Gülhane", "Law of the Palace"], "answer": "Hatt-i Sharif of Gülhane" },
+        { "question": "What was a key focus of Tanzimat reforms?", "choices": ["Expanding devshirme", "Legal equality for all subjects", "Annexing Russia", "Returning to feudalism"], "answer": "Legal equality for all subjects" },
+        { "question": "What year was the Ottoman constitution first introduced?", "choices": ["1839", "1856", "1876", "1908"], "answer": "1876" },
+        { "question": "Who was the first constitutional sultan of the Ottoman Empire?", "choices": ["Selim III", "Mahmud II", "Abdulaziz", "Abdulhamid II"], "answer": "Abdulhamid II" },
+        { "question": "What major war from 1853 to 1856 involved the Ottomans, Britain, and Russia?", "choices": ["Russo-Turkish War", "Crimean War", "Greek War of Independence", "Suez Conflict"], "answer": "Crimean War" },
+        { "question": "What military reform replaced the Janissary system?", "choices": ["Nizam-i Cedid", "Guard of the Crescent", "New Sipahis", "Imperial Legions"], "answer": "Nizam-i Cedid" },
+        { "question": "Which region gained independence from the Ottomans in 1830?", "choices": ["Serbia", "Egypt", "Greece", "Albania"], "answer": "Greece" },
+        { "question": "Who led Egypt’s push for autonomy from the Ottomans?", "choices": ["Khedive Ismail", "Muhammad Ali Pasha", "Tewfik Pasha", "Anwar Pasha"], "answer": "Muhammad Ali Pasha" },
+        { "question": "What European event influenced nationalist movements within the empire?", "choices": ["The Enlightenment", "The Crusades", "The French Revolution", "World War I"], "answer": "The French Revolution" },
+        { "question": "What ideology emphasized Turkish identity in the late empire?", "choices": ["Pan-Islamism", "Ottomanism", "Pan-Turkism", "Arab Nationalism"], "answer": "Pan-Turkism" },
+        { "question": "Which group overthrew Sultan Abdulhamid II in 1909?", "choices": ["Janissaries", "Young Ottomans", "Young Turks", "Committee of Islamic Unity"], "answer": "Young Turks" },
+        { "question": "What was the Young Turks' vision for the empire?", "choices": ["Strict theocracy", "Absolute monarchy", "Modern secular nationalism", "Return to devshirme"], "answer": "Modern secular nationalism" },
+        { "question": "When did the Ottoman Empire enter World War I?", "choices": ["1912", "1914", "1915", "1917"], "answer": "1914" },
+        { "question": "Which side did the Ottomans join in World War I?", "choices": ["Allies", "Neutral", "Axis", "Central Powers"], "answer": "Central Powers" },
+        { "question": "What genocide occurred under Ottoman rule during WWI?", "choices": ["Greek", "Syriac", "Armenian", "Jewish"], "answer": "Armenian" },
+        { "question": "What city was the capital of the late Ottoman Empire?", "choices": ["Baghdad", "Damascus", "Istanbul", "Ankara"], "answer": "Istanbul" },
+        { "question": "What campaign failed to knock the Ottomans out of WWI early?", "choices": ["Gallipoli", "Balkan Front", "Sinai Offensive", "Mesopotamia Campaign"], "answer": "Gallipoli" },
+        { "question": "Who was the key Ottoman military leader during WWI?", "choices": ["Mustafa Kemal", "Ismail Enver", "Pasha Rustem", "Talaat Bey"], "answer": "Mustafa Kemal" },
+        { "question": "What treaty formally dissolved the Ottoman Empire?", "choices": ["Treaty of Versailles", "Treaty of Berlin", "Treaty of Lausanne", "Treaty of Sèvres"], "answer": "Treaty of Sèvres" },
+        { "question": "What replaced the Ottoman Empire in 1923?", "choices": ["Kingdom of Istanbul", "Arab Caliphate", "Republic of Turkey", "Turkish Sultanate"], "answer": "Republic of Turkey" },
+        { "question": "Who led the Turkish War of Independence and founded modern Turkey?", "choices": ["Enver Pasha", "Talaat Pasha", "Abdulhamid II", "Mustafa Kemal Atatürk"], "answer": "Mustafa Kemal Atatürk" }
+    ]
+}

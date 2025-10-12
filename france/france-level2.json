@@ -1,0 +1,34 @@
+{
+    "country": "France",
+    "level": 2,
+    "title": "Capetians, Crusades, and Central Power",
+    "readingFile": "france-level2.md",
+    "questions": [
+      { "question": "Who founded the Capetian dynasty in 987?", "choices": ["Philip I", "Charlemagne", "Hugh Capet", "Louis IX"], "answer": "Hugh Capet" },
+      { "question": "What system organized medieval French society?", "choices": ["Republicanism", "Feudalism", "Monasticism", "Mercantilism"], "answer": "Feudalism" },
+      { "question": "In feudalism, who pledged loyalty in exchange for land?", "choices": ["Knights", "Peasants", "Vassals", "Merchants"], "answer": "Vassals" },
+      { "question": "What institution held enormous power alongside the monarchy?", "choices": ["The Parliament", "The University", "The Catholic Church", "The Military"], "answer": "The Catholic Church" },
+      { "question": "Who called for the First Crusade in 1095?", "choices": ["Charlemagne", "Pope Urban II", "Philip Augustus", "King John"], "answer": "Pope Urban II" },
+      { "question": "Which French noble helped lead the First Crusade?", "choices": ["Clovis", "Godfrey of Bouillon", "Philip II", "Hugh Capet"], "answer": "Godfrey of Bouillon" },
+      { "question": "Which king of France joined the Second Crusade?", "choices": ["Philip II", "Louis IX", "Louis VII", "Henry II"], "answer": "Louis VII" },
+      { "question": "What was the result of the Second Crusade?", "choices": ["Victory", "New Crusader States", "Failure", "Capture of Jerusalem"], "answer": "Failure" },
+      { "question": "Which French king fought in the Third Crusade?", "choices": ["Louis VII", "Philip II", "Louis IX", "Hugh Capet"], "answer": "Philip II" },
+      { "question": "Why did Philip II leave the Third Crusade early?", "choices": ["Illness", "War in France", "Disputes with Richard I", "Victory"], "answer": "Disputes with Richard I" },
+      { "question": "What territories did Philip II win from England?", "choices": ["Normandy and Aquitaine", "Anjou and Brittany", "Normandy and Western France", "Gascony and Flanders"], "answer": "Normandy and Western France" },
+      { "question": "How did Philip II strengthen the French monarchy?", "choices": ["Reduced taxes", "Encouraged feudal lords", "Expanded territory and improved administration", "Disbanded the army"], "answer": "Expanded territory and improved administration" },
+      { "question": "What legal reform did Philip II support?", "choices": ["Trial by combat", "Roman law", "Codified common law", "Stronger royal courts"], "answer": "Stronger royal courts" },
+      { "question": "What group was targeted in the Albigensian Crusade?", "choices": ["Jews", "Muslims", "Cathars", "Vikings"], "answer": "Cathars" },
+      { "question": "Why did the Church oppose the Cathars?", "choices": ["They were Muslims", "They supported the king", "They rejected Catholic teachings", "They were pacifists"], "answer": "They rejected Catholic teachings" },
+      { "question": "What was the result of the Albigensian Crusade?", "choices": ["Catharism spread", "Southern France became independent", "Northern nobles gained control", "The Pope became king"], "answer": "Northern nobles gained control" },
+      { "question": "What dynasty came before the Capetians?", "choices": ["Carolingians", "Valois", "Merovingians", "Plantagenets"], "answer": "Carolingians" },
+      { "question": "What was a key result of the Crusades for France?", "choices": ["Weakened monarchy", "Isolation from Europe", "Closer Church ties and new trade", "Fall of Paris"], "answer": "Closer Church ties and new trade" },
+      { "question": "Which city did Crusaders capture in 1099?", "choices": ["Constantinople", "Damascus", "Jerusalem", "Antioch"], "answer": "Jerusalem" },
+      { "question": "What was feudal society based on?", "choices": ["Trade and elections", "Military service and land loyalty", "Banking", "Church law only"], "answer": "Military service and land loyalty" },
+      { "question": "Who was the rival English king defeated by Philip II?", "choices": ["Richard I", "Edward III", "Henry II", "King John"], "answer": "King John" },
+      { "question": "Which monarch began the major expansion of royal French lands?", "choices": ["Louis IX", "Philip II", "Louis VII", "Hugh Capet"], "answer": "Philip II" },
+      { "question": "What was one effect of the Crusades on French towns?", "choices": ["Mass migration", "Economic growth and trade", "Destruction", "Tax revolts"], "answer": "Economic growth and trade" },
+      { "question": "What year did the First Crusade begin?", "choices": ["1066", "1095", "1189", "1215"], "answer": "1095" },
+      { "question": "Who were vassals loyal to in feudal France?", "choices": ["Merchants", "Knights", "Their lords", "The Pope"], "answer": "Their lords" }
+    ]
+  }
+  

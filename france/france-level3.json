@@ -1,0 +1,33 @@
+{
+    "country": "France",
+    "level": 3,
+    "title": "The Hundred Years’ War and Joan of Arc",
+    "readingFile": "france-level3.md",
+    "questions": [
+      { "question": "Which French king was known for fairness and led two crusades?", "choices": ["Philip II", "Louis IX", "Charles V", "Philip IV"], "answer": "Louis IX" },
+      { "question": "What council did Philip IV create that included clergy, nobles, and commoners?", "choices": ["National Assembly", "General Estates", "Parlement of Paris", "Estates General"], "answer": "Estates General" },
+      { "question": "What was the main cause of the Hundred Years’ War?", "choices": ["Territorial expansion", "A trade dispute", "A succession crisis", "Religious conflict"], "answer": "A succession crisis" },
+      { "question": "Who claimed the French throne and started the war in 1337?", "choices": ["Richard II", "Edward III", "Henry V", "Charles V"], "answer": "Edward III" },
+      { "question": "What weapon gave English armies a major advantage early in the war?", "choices": ["Crossbow", "Catapult", "Longbow", "Cannon"], "answer": "Longbow" },
+      { "question": "Which battle in 1346 was a major English victory?", "choices": ["Poitiers", "Crécy", "Agincourt", "Tours"], "answer": "Crécy" },
+      { "question": "What treaty in 1360 temporarily ended hostilities?", "choices": ["Treaty of Troyes", "Treaty of Orléans", "Treaty of Paris", "Treaty of Brétigny"], "answer": "Treaty of Brétigny" },
+      { "question": "What plague devastated France during the war?", "choices": ["Cholera", "Influenza", "Typhus", "Black Death"], "answer": "Black Death" },
+      { "question": "Who was king during France's early recovery in the late 1300s?", "choices": ["Charles V", "Philip VI", "Louis XI", "Henry VI"], "answer": "Charles V" },
+      { "question": "Which city was liberated by Joan of Arc in 1429?", "choices": ["Paris", "Reims", "Calais", "Orléans"], "answer": "Orléans" },
+      { "question": "What title did Charles VII claim after Joan's help?", "choices": ["Duke of Normandy", "Emperor of the West", "King of the Franks", "King of France"], "answer": "King of France" },
+      { "question": "Where was Charles VII crowned king?", "choices": ["Paris", "Reims", "Avignon", "Rouen"], "answer": "Reims" },
+      { "question": "What happened to Joan of Arc in 1431?", "choices": ["She was crowned", "She became queen", "She was burned at the stake", "She defeated England"], "answer": "She was burned at the stake" },
+      { "question": "What religious title was later given to Joan of Arc?", "choices": ["Prophet", "Martyr and Saint", "Angel of France", "Abbess of Orléans"], "answer": "Martyr and Saint" },
+      { "question": "Which English king ruled during Joan of Arc's time?", "choices": ["Edward III", "Henry V", "Henry VI", "Richard II"], "answer": "Henry VI" },
+      { "question": "Which French king reformed taxation and the army after Joan’s death?", "choices": ["Louis IX", "Charles VII", "Philip IV", "Francis I"], "answer": "Charles VII" },
+      { "question": "By what year had the English lost nearly all their territory in France?", "choices": ["1400", "1431", "1453", "1475"], "answer": "1453" },
+      { "question": "What was the only major city England held in France after the war?", "choices": ["Paris", "Rouen", "Orléans", "Calais"], "answer": "Calais" },
+      { "question": "Which term best describes the Hundred Years’ War?", "choices": ["Religious crusade", "Series of dynastic wars", "Peasant uprising", "Trade conflict"], "answer": "Series of dynastic wars" },
+      { "question": "What major event killed a third of France’s population during the war?", "choices": ["Hundred Years’ War", "Viking raids", "Black Death", "Civil War"], "answer": "Black Death" },
+      { "question": "Which city served as a symbolic site of royal legitimacy?", "choices": ["Reims", "Paris", "Calais", "Avignon"], "answer": "Reims" },
+      { "question": "What important political change emerged in France after the war?", "choices": ["Weakening of monarchy", "Increased feudalism", "Stronger central monarchy", "End of Catholicism"], "answer": "Stronger central monarchy" },
+      { "question": "What term is used to describe Joan of Arc's visions?", "choices": ["Myths", "Hallucinations", "Divine revelations", "Dreams"], "answer": "Divine revelations" },
+      { "question": "How did English military tactics differ early in the war?", "choices": ["They used cavalry only", "They relied on longbows and mobility", "They avoided battle", "They used sieges only"], "answer": "They relied on longbows and mobility" },
+      { "question": "What was a major consequence of the war for French national identity?", "choices": ["It weakened it", "It faded entirely", "It strengthened and defined it", "It was absorbed into England"], "answer": "It strengthened and defined it" }
+    ]
+  }

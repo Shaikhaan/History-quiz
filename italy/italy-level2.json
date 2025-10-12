@@ -1,0 +1,34 @@
+{
+    "country": "Italy",
+    "level": 2,
+    "title": "Medieval Italy and the Rise of City-States",
+    "readingFile": "italy-level2.md",
+    "questions": [
+        { "question": "When did the Western Roman Empire traditionally fall?", "choices": ["410 CE", "476 CE", "500 CE", "600 CE"], "answer": "476 CE" },
+        { "question": "Who was the Germanic leader that deposed the last Western Roman emperor?", "choices": ["Alaric", "Attila", "Odoacer", "Theodoric"], "answer": "Odoacer" },
+        { "question": "Which Germanic tribe ruled Italy after the fall of Rome?", "choices": ["Franks", "Visigoths", "Ostrogoths", "Huns"], "answer": "Ostrogoths" },
+        { "question": "What Eastern empire attempted to reconquer Italy in the 6th century?", "choices": ["Ottoman", "Frankish", "Byzantine", "Russian"], "answer": "Byzantine" },
+        { "question": "Which emperor led the Byzantine reconquest of Italy?", "choices": ["Constantine", "Justinian", "Leo III", "Alexios I"], "answer": "Justinian" },
+        { "question": "Who were the Lombards?", "choices": ["A Frankish dynasty", "An Islamic dynasty", "A Germanic tribe", "Roman senators"], "answer": "A Germanic tribe" },
+        { "question": "What territory did the Pope rule directly in central Italy?", "choices": ["Kingdom of Naples", "Holy Roman Empire", "Papal States", "Lombardy"], "answer": "Papal States" },
+        { "question": "Who crowned Charlemagne Holy Roman Emperor in 800 CE?", "choices": ["Benedict IX", "Leo III", "Gregory I", "Urban II"], "answer": "Leo III" },
+        { "question": "What title was given to Charlemagne in 800 CE?", "choices": ["King of France", "Caesar", "Holy Roman Emperor", "Duke of Lombardy"], "answer": "Holy Roman Emperor" },
+        { "question": "What was a 'commune' in medieval Italy?", "choices": ["A monastery", "A trade guild", "A self-governing city", "A knightly order"], "answer": "A self-governing city" },
+        { "question": "Which city was known for its merchant fleet and Mediterranean trade?", "choices": ["Florence", "Venice", "Rome", "Bologna"], "answer": "Venice" },
+        { "question": "Which city became famous for its banking and textile industries?", "choices": ["Genoa", "Florence", "Pisa", "Milan"], "answer": "Florence" },
+        { "question": "What was the main political conflict in medieval Italian cities?", "choices": ["Royalists vs Republicans", "Guelphs vs Ghibellines", "Crusaders vs Moors", "Guilds vs Nobles"], "answer": "Guelphs vs Ghibellines" },
+        { "question": "Who did the Guelphs support?", "choices": ["The Emperor", "The Pope", "The King of Naples", "The Normans"], "answer": "The Pope" },
+        { "question": "Who did the Ghibellines support?", "choices": ["The Pope", "The Holy Roman Emperor", "The Venetians", "The Byzantines"], "answer": "The Holy Roman Emperor" },
+        { "question": "Which famous poet was exiled due to these political conflicts?", "choices": ["Petrarch", "Boccaccio", "Dante Alighieri", "Virgil"], "answer": "Dante Alighieri" },
+        { "question": "What is Dante’s most famous work?", "choices": ["The Prince", "The Book of the Courtier", "The Divine Comedy", "The Decameron"], "answer": "The Divine Comedy" },
+        { "question": "What university, founded in 1088, is Europe's oldest?", "choices": ["University of Rome", "University of Florence", "University of Bologna", "University of Padua"], "answer": "University of Bologna" },
+        { "question": "What subject was Bologna known for?", "choices": ["Medicine", "Engineering", "Law", "Art"], "answer": "Law" },
+        { "question": "What role did guilds play in city life?", "choices": ["Military", "Religious", "Economic and political", "Judicial"], "answer": "Economic and political" },
+        { "question": "What language was used in medieval Italian scholarship?", "choices": ["Italian", "Greek", "French", "Latin"], "answer": "Latin" },
+        { "question": "What best describes medieval Italy's political structure?", "choices": ["Unified monarchy", "Feudal empire", "Fragmented city-states", "Papal dominion"], "answer": "Fragmented city-states" },
+        { "question": "Which city-states were known rivals in trade and power?", "choices": ["Rome and Florence", "Naples and Venice", "Venice and Genoa", "Siena and Pisa"], "answer": "Venice and Genoa" },
+        { "question": "Which empire remained a major influence in northern Italy?", "choices": ["Byzantine", "Islamic", "Holy Roman", "Mongol"], "answer": "Holy Roman" },
+        { "question": "What legacy did medieval Italy leave for Europe?", "choices": ["Decline of trade", "Rise of feudalism", "Foundations for the Renaissance", "Suppression of cities"], "answer": "Foundations for the Renaissance" }
+    ]
+}
+

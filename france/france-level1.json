@@ -1,0 +1,34 @@
+{
+    "country": "France",
+    "level": 1,
+    "title": "From Gaul to Kingdom",
+    "readingFile": "france-level1.md",
+    "questions": [
+      { "question": "What name did the Romans give to the land that became France?", "choices": ["Brittany", "Normandy", "Gaul", "Frankia"], "answer": "Gaul" },
+      { "question": "Which Gallic leader resisted Julius Caesar?", "choices": ["Vercingetorix", "Clovis", "Charlemagne", "Napoleon"], "answer": "Vercingetorix" },
+      { "question": "Which battle marked the Roman conquest of Gaul?", "choices": ["Battle of Tours", "Battle of Hastings", "Battle of Alesia", "Battle of Verdun"], "answer": "Battle of Alesia" },
+      { "question": "What was the Roman name for modern-day Paris?", "choices": ["Alesia", "Lugdunum", "Lutetia", "Massilia"], "answer": "Lutetia" },
+      { "question": "Which Germanic tribe became dominant in Gaul after Rome?", "choices": ["Vandals", "Franks", "Visigoths", "Burgundians"], "answer": "Franks" },
+      { "question": "Who was the first major king of the Franks to convert to Christianity?", "choices": ["Charlemagne", "Pepin the Short", "Clovis I", "Louis IX"], "answer": "Clovis I" },
+      { "question": "What dynasty did Clovis I found?", "choices": ["Carolingian", "Capetian", "Merovingian", "Valois"], "answer": "Merovingian" },
+      { "question": "Who became emperor in 800 CE and expanded the Frankish Empire?", "choices": ["Charlemagne", "Hugh Capet", "Clovis", "Charles Martel"], "answer": "Charlemagne" },
+      { "question": "What term describes the cultural revival under Charlemagne?", "choices": ["Renaissance", "Enlightenment", "Carolingian Renaissance", "Feudal Reform"], "answer": "Carolingian Renaissance" },
+      { "question": "What treaty in 843 split Charlemagne's empire?", "choices": ["Treaty of Paris", "Treaty of Verdun", "Treaty of Troyes", "Treaty of Tours"], "answer": "Treaty of Verdun" },
+      { "question": "What kingdom eventually became France after Charlemagne's empire divided?", "choices": ["East Francia", "Lotharingia", "West Francia", "Saxon Kingdom"], "answer": "West Francia" },
+      { "question": "What external group frequently raided early France?", "choices": ["Romans", "Arabs", "Huns", "Vikings"], "answer": "Vikings" },
+      { "question": "Which king founded the Capetian dynasty in 987?", "choices": ["Charlemagne", "Clovis", "Hugh Capet", "Louis the Pious"], "answer": "Hugh Capet" },
+      { "question": "Which religion became dominant in Gaul by the 4th century?", "choices": ["Judaism", "Islam", "Christianity", "Paganism"], "answer": "Christianity" },
+      { "question": "Which city was the capital of Roman Gaul?", "choices": ["Marseille", "Paris", "Lyon (Lugdunum)", "Toulouse"], "answer": "Lyon (Lugdunum)" },
+      { "question": "What legacy did Roman rule leave in Gaul?", "choices": ["Nomadic lifestyle", "Written Germanic laws", "Cities, roads, and Latin language", "Military conquest traditions"], "answer": "Cities, roads, and Latin language" },
+      { "question": "What role did Christianity play in Clovis's reign?", "choices": ["He persecuted it", "He embraced it to gain Roman support", "He ignored religion", "He declared paganism official"], "answer": "He embraced it to gain Roman support" },
+      { "question": "What architectural legacy did the Romans leave in Gaul?", "choices": ["Castles", "Pyramids", "Aqueducts and amphitheaters", "Pagodas"], "answer": "Aqueducts and amphitheaters" },
+      { "question": "Which Roman leader defeated the Gauls at Alesia?", "choices": ["Augustus", "Nero", "Julius Caesar", "Marcus Aurelius"], "answer": "Julius Caesar" },
+      { "question": "What was a key result of the Treaty of Verdun?", "choices": ["End of Viking raids", "Creation of the Holy Roman Empire", "Division of Charlemagne’s empire", "Unification of Gaul"], "answer": "Division of Charlemagne’s empire" },
+      { "question": "Who crowned Charlemagne as emperor in 800?", "choices": ["The King of Spain", "The Pope", "The Roman Senate", "The Byzantine Emperor"], "answer": "The Pope" },
+      { "question": "What was the main reason the Franks rose in power after Rome?", "choices": ["Roman support", "Superior trade", "Military organization and Christian alliance", "Greek alliance"], "answer": "Military organization and Christian alliance" },
+      { "question": "Which dynasty succeeded the Merovingians?", "choices": ["Capetian", "Carolingian", "Bourbon", "Valois"], "answer": "Carolingian" },
+      { "question": "What writing system and language did the Romans bring to Gaul?", "choices": ["Runes and German", "Arabic and Syriac", "Latin and Roman alphabet", "Greek and Cyrillic"], "answer": "Latin and Roman alphabet" },
+      { "question": "Which geographic term best describes Gaul under the Romans?", "choices": ["Province", "Empire", "City-state", "Colony"], "answer": "Province" }
+    ]
+  }
+  

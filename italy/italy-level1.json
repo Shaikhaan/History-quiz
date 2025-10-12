@@ -1,0 +1,33 @@
+{
+"country": "Italy",
+"level": 1,
+"title": "Rome and the Foundations of Italy",
+"readingFile": "italy-level1.md",
+"questions": [
+    { "question": "What city is traditionally considered the starting point of ancient Italian civilization?", "choices": ["Milan", "Venice", "Rome", "Florence"], "answer": "Rome" },
+    { "question": "Who were the legendary founders of Rome?", "choices": ["Caesar and Pompey", "Romulus and Remus", "Augustus and Tiberius", "Brutus and Cassius"], "answer": "Romulus and Remus" },
+    { "question": "Which ancient civilization heavily influenced early Roman culture?", "choices": ["Celts", "Phoenicians", "Etruscans", "Vikings"], "answer": "Etruscans" },
+    { "question": "What type of government did Rome establish after overthrowing its kings?", "choices": ["Empire", "Monarchy", "Republic", "Dictatorship"], "answer": "Republic" },
+    { "question": "What was the main political body in the Roman Republic?", "choices": ["The Senate", "The Assembly", "The Forum", "The Tribune"], "answer": "The Senate" },
+    { "question": "What class of Roman society was made up of commoners?", "choices": ["Patricians", "Consuls", "Plebeians", "Equites"], "answer": "Plebeians" },
+    { "question": "What wars helped Rome dominate the western Mediterranean?", "choices": ["Punic Wars", "Peloponnesian Wars", "Gothic Wars", "Crusades"], "answer": "Punic Wars" },
+    { "question": "Who was Rome's famous general during the Second Punic War?", "choices": ["Scipio Africanus", "Julius Caesar", "Augustus", "Brutus"], "answer": "Scipio Africanus" },
+    { "question": "Which North African city did Rome fight in the Punic Wars?", "choices": ["Alexandria", "Thebes", "Carthage", "Numidia"], "answer": "Carthage" },
+    { "question": "What river is Rome located on?", "choices": ["Danube", "Po", "Tiber", "Ebro"], "answer": "Tiber" },
+    { "question": "Which Roman leader was assassinated on the Ides of March?", "choices": ["Augustus", "Caligula", "Julius Caesar", "Nero"], "answer": "Julius Caesar" },
+    { "question": "Who became the first emperor of Rome?", "choices": ["Julius Caesar", "Augustus", "Nero", "Trajan"], "answer": "Augustus" },
+    { "question": "What structure symbolized Roman engineering and supplied water?", "choices": ["Forum", "Pantheon", "Colosseum", "Aqueducts"], "answer": "Aqueducts" },
+    { "question": "Which Roman legal code influenced future Western law?", "choices": ["Edict of Milan", "Law of the Twelve Tables", "Pax Romana", "Corpus Juris Civilis"], "answer": "Law of the Twelve Tables" },
+    { "question": "Which language did the Romans speak?", "choices": ["Greek", "Latin", "Arabic", "Italian"], "answer": "Latin" },
+    { "question": "Which Roman achievement helped unify the empire?", "choices": ["Democracy", "Republicanism", "Road networks", "Slave revolts"], "answer": "Road networks" },
+    { "question": "What was the Roman Republic’s attitude toward citizenship?", "choices": ["Exclusive to Romans", "Open to all foreigners", "Extended to allies and loyal provinces", "Only for Patricians"], "answer": "Extended to allies and loyal provinces" },
+    { "question": "Which Roman goddess was associated with the city of Rome?", "choices": ["Athena", "Minerva", "Juno", "Venus"], "answer": "Venus" },
+    { "question": "Who fought in the Roman civil war against Pompey?", "choices": ["Nero", "Augustus", "Julius Caesar", "Brutus"], "answer": "Julius Caesar" },
+    { "question": "Which Roman victory solidified control of the western Mediterranean?", "choices": ["Battle of Zama", "Battle of Actium", "Battle of Cannae", "Battle of the Teutoburg Forest"], "answer": "Battle of Zama" },
+    { "question": "What form of government followed the fall of the Roman Republic?", "choices": ["Democracy", "Monarchy", "Empire", "Oligarchy"], "answer": "Empire" },
+    { "question": "What title did Augustus adopt to mark his new role?", "choices": ["Consul", "Dictator", "Princeps", "Caesar"], "answer": "Princeps" },
+    { "question": "What was the name of the large stadium used for gladiator games?", "choices": ["Circus Maximus", "Pantheon", "Forum", "Colosseum"], "answer": "Colosseum" },
+    { "question": "Which Roman emperor established the Pax Romana?", "choices": ["Nero", "Hadrian", "Trajan", "Augustus"], "answer": "Augustus" },
+    { "question": "What does 'Pax Romana' mean?", "choices": ["Roman Power", "Peace of Rome", "People of Rome", "Law of Rome"], "answer": "Peace of Rome" }
+]
+}

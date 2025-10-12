@@ -1,0 +1,133 @@
+{
+  "country": "England",
+  "level": 4,
+  "title": "Civil War and Revolution (1603–1714)",
+  "readingFile": "england-level4.md",
+  "questions": [
+    {
+      "question": "Who became king of England after Elizabeth I?",
+      "choices": ["Charles I", "James I", "Henry VIII", "Oliver Cromwell"],
+      "answer": "James I"
+    },
+    {
+      "question": "What document, published in 1611, became a famous English Bible translation?",
+      "choices": ["The Great Bible", "King James Bible", "Geneva Bible", "Tyndale Bible"],
+      "answer": "King James Bible"
+    },
+    {
+      "question": "Who led the failed Gunpowder Plot in 1605?",
+      "choices": ["Guy Fawkes", "Oliver Cromwell", "Francis Bacon", "Robert Cecil"],
+      "answer": "Guy Fawkes"
+    },
+    {
+      "question": "Which king was executed after the English Civil War?",
+      "choices": ["James I", "Charles I", "Charles II", "James II"],
+      "answer": "Charles I"
+    },
+    {
+      "question": "What political group supported Parliament during the Civil War?",
+      "choices": ["Royalists", "Puritans", "Cavaliers", "Roundheads"],
+      "answer": "Roundheads"
+    },
+    {
+      "question": "Who led the Parliamentary forces in the English Civil War?",
+      "choices": ["Charles II", "Oliver Cromwell", "James II", "John Milton"],
+      "answer": "Oliver Cromwell"
+    },
+    {
+      "question": "What title did Cromwell hold during the Interregnum?",
+      "choices": ["King of England", "Lord Protector", "High Chancellor", "General of Parliament"],
+      "answer": "Lord Protector"
+    },
+    {
+      "question": "What form of government did England become after Charles I's execution?",
+      "choices": ["Monarchy", "Theocracy", "Republic (Commonwealth)", "Dictatorship"],
+      "answer": "Republic (Commonwealth)"
+    },
+    {
+      "question": "Which monarch was restored to the throne in 1660?",
+      "choices": ["James II", "William III", "Charles II", "George I"],
+      "answer": "Charles II"
+    },
+    {
+      "question": "What nickname was given to Charles II?",
+      "choices": ["The Warrior King", "The Puritan", "The Merry Monarch", "The Last Tudor"],
+      "answer": "The Merry Monarch"
+    },
+    {
+      "question": "Why was James II unpopular as king?",
+      "choices": ["He raised taxes", "He was Catholic", "He canceled Parliament", "He lost wars"],
+      "answer": "He was Catholic"
+    },
+    {
+      "question": "What was the Glorious Revolution?",
+      "choices": ["A Catholic uprising", "The founding of Parliament", "A peaceful overthrow of James II", "The defeat of Napoleon"],
+      "answer": "A peaceful overthrow of James II"
+    },
+    {
+      "question": "Who ruled jointly after the Glorious Revolution?",
+      "choices": ["James II and Anne", "William and Mary", "George I and Elizabeth", "Cromwell and Parliament"],
+      "answer": "William and Mary"
+    },
+    {
+      "question": "Which document was passed in 1689 to limit royal power?",
+      "choices": ["The Magna Carta", "The Bill of Rights", "The Petition of Right", "The Act of Settlement"],
+      "answer": "The Bill of Rights"
+    },
+    {
+      "question": "Which act in 1707 united England and Scotland?",
+      "choices": ["The Act of Supremacy", "The Act of Toleration", "The Act of Union", "The Treaty of Windsor"],
+      "answer": "The Act of Union"
+    },
+    {
+      "question": "Who became monarch after Queen Anne died?",
+      "choices": ["George I", "James II", "William III", "Henry VII"],
+      "answer": "George I"
+    },
+    {
+      "question": "What political role became more important under George I?",
+      "choices": ["Lord Chancellor", "Prime Minister", "Sheriff", "Archbishop"],
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "Which king believed strongly in the divine right of kings?",
+      "choices": ["Henry VIII", "James I", "Edward VI", "William III"],
+      "answer": "James I"
+    },
+    {
+      "question": "What year did the English Civil War begin?",
+      "choices": ["1642", "1688", "1605", "1707"],
+      "answer": "1642"
+    },
+    {
+      "question": "What was the name of England during the Interregnum?",
+      "choices": ["The Empire", "The United Kingdom", "The Commonwealth", "The Protectorate"],
+      "answer": "The Commonwealth"
+    },
+    {
+      "question": "What cultural restriction did Cromwell enforce?",
+      "choices": ["No foreign language", "Ban on theatre and dancing", "Tax on books", "Censorship of sermons"],
+      "answer": "Ban on theatre and dancing"
+    },
+    {
+      "question": "Which Stuart monarch was exiled and later restored?",
+      "choices": ["James I", "Charles II", "James II", "Edward VI"],
+      "answer": "Charles II"
+    },
+    {
+      "question": "What key principle was established by the Glorious Revolution?",
+      "choices": ["Absolute monarchy", "Parliamentary supremacy", "Papal authority", "Military dictatorship"],
+      "answer": "Parliamentary supremacy"
+    },
+    {
+      "question": "Who ruled England immediately after Charles I’s execution?",
+      "choices": ["James II", "Oliver Cromwell", "George I", "Henry IX"],
+      "answer": "Oliver Cromwell"
+    },
+    {
+      "question": "What major city event occurred during Charles II’s reign?",
+      "choices": ["The Battle of Hastings", "The Great Fire of London", "The Glorious Revolution", "The signing of the Magna Carta"],
+      "answer": "The Great Fire of London"
+    }
+  ]
+}

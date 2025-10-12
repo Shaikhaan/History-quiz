@@ -1,0 +1,33 @@
+{
+    "country": "Italy",
+    "level": 5,
+    "title": "Fascism, Republic, and Modern Italy",
+    "readingFile": "italy-level5.md",
+    "questions": [
+        { "question": "Who founded the Fascist Party in Italy?", "choices": ["Victor Emmanuel III", "Mussolini", "Garibaldi", "Cavour"], "answer": "Mussolini" },
+        { "question": "In what year did Mussolini march on Rome?", "choices": ["1919", "1922", "1933", "1939"], "answer": "1922" },
+        { "question": "What title did Mussolini take as the leader of Italy?", "choices": ["Duce", "Emperor", "Consul", "Premier"], "answer": "Duce" },
+        { "question": "What was the Lateran Treaty of 1929?", "choices": ["Military alliance", "Peace treaty with Austria", "Agreement with the Pope", "Trade pact with Germany"], "answer": "Agreement with the Pope" },
+        { "question": "What independent state was created by the Lateran Treaty?", "choices": ["San Marino", "Sardinia", "Vatican City", "Naples"], "answer": "Vatican City" },
+        { "question": "Italy invaded which African country in 1935?", "choices": ["Sudan", "Algeria", "Ethiopia", "Libya"], "answer": "Ethiopia" },
+        { "question": "Which two countries formed the Axis alliance in WWII?", "choices": ["Italy and France", "Germany and Italy", "Italy and Britain", "Italy and USA"], "answer": "Germany and Italy" },
+        { "question": "What was Mussolini’s fate in 1945?", "choices": ["Exiled", "Executed", "Imprisoned for life", "Escaped to Germany"], "answer": "Executed" },
+        { "question": "When did Italy become a republic?", "choices": ["1943", "1945", "1946", "1950"], "answer": "1946" },
+        { "question": "What form of government replaced the monarchy in Italy?", "choices": ["Empire", "Dictatorship", "Republic", "Theocracy"], "answer": "Republic" },
+        { "question": "What major vote took place in Italy in 1946?", "choices": ["Referendum on monarchy", "European Union entry", "Papal election", "UN membership vote"], "answer": "Referendum on monarchy" },
+        { "question": "Who was the last king of Italy?", "choices": ["Victor Emmanuel II", "Umberto I", "Victor Emmanuel III", "Umberto II"], "answer": "Umberto II" },
+        { "question": "Which region of Italy experienced strong separatist sentiment post-WWII?", "choices": ["Lombardy", "Sicily", "Tuscany", "Veneto"], "answer": "Sicily" },
+        { "question": "What economic miracle occurred in postwar Italy?", "choices": ["Oil boom", "Rapid industrial growth", "Gold rush", "Shipping revolution"], "answer": "Rapid industrial growth" },
+        { "question": "What international organization did Italy join in 1957?", "choices": ["United Nations", "NATO", "European Economic Community", "OECD"], "answer": "European Economic Community" },
+        { "question": "What period in the 1970s–80s saw political violence in Italy?", "choices": ["Years of Hope", "Red Terror", "Anni di Piombo (Years of Lead)", "Cold Days"], "answer": "Anni di Piombo (Years of Lead)" },
+        { "question": "Which terrorist group kidnapped Aldo Moro in 1978?", "choices": ["Black Brigades", "Red Army Faction", "Brigate Rosse (Red Brigades)", "Fascist Action Front"], "answer": "Brigate Rosse (Red Brigades)" },
+        { "question": "What scandal in the 1990s reshaped Italian politics?", "choices": ["Watergate", "Clean Hands (Mani Pulite)", "Tangentopoli", "Berlusconi Affair"], "answer": "Clean Hands (Mani Pulite)" },
+        { "question": "What media tycoon became a major political figure in the 1990s?", "choices": ["Matteo Renzi", "Silvio Berlusconi", "Romano Prodi", "Gianni Agnelli"], "answer": "Silvio Berlusconi" },
+        { "question": "What is the legislative body of modern Italy called?", "choices": ["Diet", "Congress", "Parliament", "National Assembly"], "answer": "Parliament" },
+        { "question": "Which city remains the capital of Italy today?", "choices": ["Florence", "Turin", "Milan", "Rome"], "answer": "Rome" },
+        { "question": "What is Italy’s role in the European Union?", "choices": ["Founding member", "Observer state", "Non-member", "Temporary partner"], "answer": "Founding member" },
+        { "question": "When did Italy adopt the euro as its currency?", "choices": ["1995", "1999", "2002", "2005"], "answer": "2002" },
+        { "question": "Which southern Italian issue continues to challenge modern governance?", "choices": ["Flooding", "Mafia influence", "Immigration", "Language diversity"], "answer": "Mafia influence" },
+        { "question": "What major event did Italy host in 1960?", "choices": ["World Expo", "Summer Olympics", "World Cup", "NATO Summit"], "answer": "Summer Olympics" }
+    ]
+}

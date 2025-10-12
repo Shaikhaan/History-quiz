@@ -1,0 +1,33 @@
+{
+    "country": "Japan",
+    "level": 5,
+    "title": "Imperial Japan and World War II",
+    "readingFile": "japan-level5.md",
+    "questions": [
+        { "question": "What was the ideology behind Japan's imperial expansion?", "choices": ["Communism", "Pan-Asianism", "Isolationism", "Socialism"], "answer": "Pan-Asianism" },
+        { "question": "Which war marked Japan’s emergence as a global power?", "choices": ["First Sino-Japanese War", "Satsuma Rebellion", "Russo-Japanese War", "World War I"], "answer": "Russo-Japanese War" },
+        { "question": "What treaty ended the Russo-Japanese War?", "choices": ["Treaty of Kanagawa", "Treaty of Portsmouth", "Treaty of Versailles", "Treaty of Tokyo"], "answer": "Treaty of Portsmouth" },
+        { "question": "Which alliance did Japan join in World War I?", "choices": ["Axis", "Triple Entente", "Triple Alliance", "League of Nations"], "answer": "Triple Entente" },
+        { "question": "What territory did Japan seize during WWI?", "choices": ["Hong Kong", "Vietnam", "German Pacific islands", "Manchuria"], "answer": "German Pacific islands" },
+        { "question": "What happened during the 1923 Great Kanto Earthquake?", "choices": ["Tokyo was bombed", "Massive earthquake devastated Tokyo and Yokohama", "Nagasaki was hit", "Japan declared war"], "answer": "Massive earthquake devastated Tokyo and Yokohama" },
+        { "question": "What was the political state of Japan in the 1930s?", "choices": ["Liberal democracy", "Military dictatorship", "Absolute monarchy", "Republic"], "answer": "Military dictatorship" },
+        { "question": "What region did Japan invade in 1931?", "choices": ["Korea", "Vietnam", "Taiwan", "Manchuria"], "answer": "Manchuria" },
+        { "question": "What puppet state did Japan establish in Manchuria?", "choices": ["Taiwan", "Choson", "Manchukuo", "Mukden"], "answer": "Manchukuo" },
+        { "question": "Which emperor reigned during WWII?", "choices": ["Meiji", "Taisho", "Hirohito", "Akihito"], "answer": "Hirohito" },
+        { "question": "When did Japan attack Pearl Harbor?", "choices": ["1939", "1940", "1941", "1942"], "answer": "1941" },
+        { "question": "Which countries formed the Axis powers?", "choices": ["Japan, China, Germany", "Germany, Italy, Japan", "Japan, Britain, Germany", "Italy, Japan, USA"], "answer": "Germany, Italy, Japan" },
+        { "question": "What was the aim of Japan's Greater East Asia Co-Prosperity Sphere?", "choices": ["Cultural exchange", "Free trade zone", "Asian liberation under Japanese rule", "Scientific cooperation"], "answer": "Asian liberation under Japanese rule" },
+        { "question": "What atrocity occurred in Nanjing in 1937?", "choices": ["Massive typhoon", "Japanese occupation", "The Nanjing Massacre", "Nuclear bombing"], "answer": "The Nanjing Massacre" },
+        { "question": "What type of warfare did Japan use in WWII?", "choices": ["Only defensive", "Naval and aerial warfare", "Cyber warfare", "Biological warfare"], "answer": "Naval and aerial warfare" },
+        { "question": "What were 'kamikaze' pilots?", "choices": ["Mercenaries", "Espionage agents", "Suicide attackers", "Naval captains"], "answer": "Suicide attackers" },
+        { "question": "Which cities were destroyed by atomic bombs?", "choices": ["Tokyo and Osaka", "Hiroshima and Nagasaki", "Kyoto and Sapporo", "Nagasaki and Kobe"], "answer": "Hiroshima and Nagasaki" },
+        { "question": "Who was the U.S. president that ordered the atomic bombs?", "choices": ["Roosevelt", "Eisenhower", "Truman", "Wilson"], "answer": "Truman" },
+        { "question": "When did Japan officially surrender in WWII?", "choices": ["August 6, 1945", "August 9, 1945", "August 15, 1945", "September 2, 1945"], "answer": "September 2, 1945" },
+        { "question": "What ship hosted the Japanese surrender ceremony?", "choices": ["USS Enterprise", "USS Arizona", "USS Missouri", "USS Yorktown"], "answer": "USS Missouri" },
+        { "question": "What role did Emperor Hirohito play after WWII?", "choices": ["Exiled", "Tried for war crimes", "Retained as a symbolic monarch", "Deposed"], "answer": "Retained as a symbolic monarch" },
+        { "question": "What organization helped reconstruct postwar Japan?", "choices": ["UNESCO", "NATO", "SCAP (Supreme Commander for the Allied Powers)", "IMF"], "answer": "SCAP (Supreme Commander for the Allied Powers)" },
+        { "question": "Which country occupied Japan after WWII?", "choices": ["China", "USA", "Soviet Union", "Britain"], "answer": "USA" },
+        { "question": "What document redefined Japan's government after WWII?", "choices": ["Meiji Constitution", "Tokyo Agreement", "Postwar Constitution of 1947", "Surrender Act"], "answer": "Postwar Constitution of 1947" },
+        { "question": "What is Article 9 of Japan’s postwar constitution?", "choices": ["Freedom of religion", "Women's suffrage", "Renunciation of war", "Right to bear arms"], "answer": "Renunciation of war" }
+    ]
+}

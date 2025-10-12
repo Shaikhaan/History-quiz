@@ -1,0 +1,34 @@
+{
+    "country": "Japan",
+    "level": 1,
+    "title": "Ancient and Classical Japan",
+    "readingFile": "japan-level1.md",
+    "questions": [
+        { "question": "What is Japan's earliest known culture?", "choices": ["Yayoi", "Jomon", "Heian", "Kofun"], "answer": "Jomon" },
+        { "question": "What characterized the Jomon period?", "choices": ["Iron tools", "Samurai warriors", "Pottery with cord patterns", "Buddhist temples"], "answer": "Pottery with cord patterns" },
+        { "question": "Which culture followed the Jomon period?", "choices": ["Kofun", "Heian", "Yayoi", "Edo"], "answer": "Yayoi" },
+        { "question": "What major innovation did the Yayoi period introduce?", "choices": ["Gunpowder", "Bronze casting and wet-rice farming", "Paper making", "Feudal lords"], "answer": "Bronze casting and wet-rice farming" },
+        { "question": "What does 'Kofun' refer to?", "choices": ["A style of sword", "A type of burial mound", "An emperor's palace", "A Buddhist monk"], "answer": "A type of burial mound" },
+        { "question": "Which clan began to dominate Japan during the Kofun period?", "choices": ["Fujiwara", "Yamato", "Tokugawa", "Minamoto"], "answer": "Yamato" },
+        { "question": "What religion was introduced to Japan from Korea and China?", "choices": ["Hinduism", "Buddhism", "Zoroastrianism", "Christianity"], "answer": "Buddhism" },
+        { "question": "Which native Japanese religion emphasizes kami and nature?", "choices": ["Taoism", "Confucianism", "Shinto", "Zen"], "answer": "Shinto" },
+        { "question": "What was the capital during the Nara period?", "choices": ["Kyoto", "Heian", "Nara", "Edo"], "answer": "Nara" },
+        { "question": "What city became Japan’s capital in 794 CE?", "choices": ["Nara", "Osaka", "Kyoto (Heian)", "Kamakura"], "answer": "Kyoto (Heian)" },
+        { "question": "What does the term 'Heian' mean?", "choices": ["Peace and tranquility", "Warrior class", "Imperial rule", "Golden age"], "answer": "Peace and tranquility" },
+        { "question": "Which class became influential in the Heian period?", "choices": ["Samurai", "Merchants", "Nobles and aristocrats", "Monks"], "answer": "Nobles and aristocrats" },
+        { "question": "What famous novel was written by Murasaki Shikibu?", "choices": ["Tale of the Heike", "Kojiki", "Tale of Genji", "Manyoshu"], "answer": "Tale of Genji" },
+        { "question": "What is the 'Tale of Genji' about?", "choices": ["A war between clans", "The life of a nobleman", "A Buddhist journey", "Japanese myths"], "answer": "The life of a nobleman" },
+        { "question": "What writing system was developed during the Heian period?", "choices": ["Kanji", "Hiragana", "Katakana", "Hangul"], "answer": "Hiragana" },
+        { "question": "Which Chinese philosophy influenced Japanese government?", "choices": ["Buddhism", "Confucianism", "Daoism", "Legalism"], "answer": "Confucianism" },
+        { "question": "What was the Japanese emperor considered during ancient times?", "choices": ["A god", "A general", "A priest", "A merchant leader"], "answer": "A god" },
+        { "question": "What major reforms were introduced in 645 CE?", "choices": ["Tokugawa reforms", "Taika Reforms", "Meiji Restoration", "Imperial Edicts"], "answer": "Taika Reforms" },
+        { "question": "The Taika Reforms were modeled on which country?", "choices": ["India", "Korea", "China", "Vietnam"], "answer": "China" },
+        { "question": "What is the name of Japan’s earliest written history?", "choices": ["Nihon Shoki", "Tale of Genji", "Manyoshu", "Book of Han"], "answer": "Nihon Shoki" },
+        { "question": "Which clan unified early Japan and claimed divine descent?", "choices": ["Fujiwara", "Taira", "Yamato", "Minamoto"], "answer": "Yamato" },
+        { "question": "Which Buddhist sect gained popularity in classical Japan?", "choices": ["Zen", "Pure Land", "Theravada", "Vajrayana"], "answer": "Pure Land" },
+        { "question": "What symbol of power became prominent in the Kofun period?", "choices": ["Bells", "Scrolls", "Bronze mirrors", "Keyhole tombs"], "answer": "Keyhole tombs" },
+        { "question": "Which natural disaster was interpreted as the wrath of kami?", "choices": ["Tsunami", "Earthquake", "Volcano eruption", "All of the above"], "answer": "All of the above" },
+        { "question": "What was the dominant political structure by the Heian period?", "choices": ["Military rule", "Feudal shogunate", "Aristocratic court", "Tribal council"], "answer": "Aristocratic court" }
+    ]
+}
+

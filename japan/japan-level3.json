@@ -1,0 +1,34 @@
+{
+    "country": "Japan",
+    "level": 3,
+    "title": "Unification and Isolation",
+    "readingFile": "japan-level3.md",
+    "questions": [
+        { "question": "Who began the process of unifying Japan in the late 1500s?", "choices": ["Minamoto no Yoritomo", "Oda Nobunaga", "Toyotomi Hideyoshi", "Tokugawa Ieyasu"], "answer": "Oda Nobunaga" },
+        { "question": "Which leader completed the unification of Japan?", "choices": ["Oda Nobunaga", "Hideyoshi", "Tokugawa Ieyasu", "Emperor Meiji"], "answer": "Tokugawa Ieyasu" },
+        { "question": "What battle in 1600 secured Tokugawa rule?", "choices": ["Battle of Sekigahara", "Battle of Osaka", "Battle of Dan-no-ura", "Battle of Kyoto"], "answer": "Battle of Sekigahara" },
+        { "question": "In what year did the Tokugawa Shogunate officially begin?", "choices": ["1543", "1600", "1603", "1615"], "answer": "1603" },
+        { "question": "Where did the Tokugawa establish their capital?", "choices": ["Kyoto", "Osaka", "Edo", "Nagasaki"], "answer": "Edo" },
+        { "question": "What does 'Edo' refer to today?", "choices": ["Tokyo", "Kyoto", "Nagasaki", "Osaka"], "answer": "Tokyo" },
+        { "question": "What system did the Tokugawa use to control the daimyo?", "choices": ["Seppuku", "Sankin-kotai", "Bushido", "Kamikaze"], "answer": "Sankin-kotai" },
+        { "question": "What was the purpose of the sankin-kotai system?", "choices": ["To train samurai", "To promote Zen", "To monitor daimyo loyalty", "To spread Buddhism"], "answer": "To monitor daimyo loyalty" },
+        { "question": "What was Japan’s foreign policy during the Tokugawa era?", "choices": ["Colonial expansion", "Globalization", "Closed country (sakoku)", "Open ports"], "answer": "Closed country (sakoku)" },
+        { "question": "Which port remained open to limited foreign trade?", "choices": ["Osaka", "Nagasaki", "Edo", "Sapporo"], "answer": "Nagasaki" },
+        { "question": "Which European country was allowed to trade with Japan?", "choices": ["Spain", "Portugal", "Netherlands", "France"], "answer": "Netherlands" },
+        { "question": "Christianity was banned under which leader?", "choices": ["Nobunaga", "Tokugawa Ieyasu", "Hideyoshi", "Meiji"], "answer": "Tokugawa Ieyasu" },
+        { "question": "What happened to many Japanese Christians during this time?", "choices": ["They became monks", "They were exiled", "They were persecuted", "They founded churches"], "answer": "They were persecuted" },
+        { "question": "What was the Shimabara Rebellion?", "choices": ["A merchant uprising", "A peasant-Christian revolt", "A samurai coup", "A Buddhist protest"], "answer": "A peasant-Christian revolt" },
+        { "question": "What social class was at the top of Tokugawa society?", "choices": ["Merchants", "Samurai", "Peasants", "Shogun"], "answer": "Shogun" },
+        { "question": "What was the lowest social class despite growing wealth?", "choices": ["Peasants", "Artisans", "Samurai", "Merchants"], "answer": "Merchants" },
+        { "question": "What were the samurai paid in during the Tokugawa era?", "choices": ["Gold", "Land", "Stipends in rice", "Silver coins"], "answer": "Stipends in rice" },
+        { "question": "What was a major reason for Japan's isolation policy?", "choices": ["Fear of Mongol invasion", "Control over Buddhism", "Concern about foreign influence", "Desire to expand"], "answer": "Concern about foreign influence" },
+        { "question": "Which Tokugawa leader began major restrictions on Christianity?", "choices": ["Ieyasu", "Hidetada", "Iemitsu", "Yoshinobu"], "answer": "Iemitsu" },
+        { "question": "What term refers to the peace and stability of Tokugawa Japan?", "choices": ["Edo calm", "Great Harmony", "Pax Tokugawa", "Pax Nipponica"], "answer": "Pax Tokugawa" },
+        { "question": "How long did the Tokugawa Shogunate last?", "choices": ["150 years", "200 years", "250 years", "300 years"], "answer": "250 years" },
+        { "question": "What helped urban culture thrive in Edo-period Japan?", "choices": ["Imperial expansion", "Rural farming", "Peace and isolation", "Foreign education"], "answer": "Peace and isolation" },
+        { "question": "What popular form of theater emerged in this era?", "choices": ["Noh", "Kabuki", "Opera", "Bunraku"], "answer": "Kabuki" },
+        { "question": "Which group of entertainers and artists became iconic in Edo?", "choices": ["Ninjas", "Geisha", "Monks", "Ronin"], "answer": "Geisha" },
+        { "question": "What was the overarching goal of Tokugawa policies?", "choices": ["Westernization", "Rapid innovation", "Central control and stability", "Military conquest"], "answer": "Central control and stability" }
+    ]
+}
+

@@ -1,0 +1,33 @@
+{
+    "country": "Ottoman Empire",
+    "level": 1,
+    "title": "Rise of the Ottomans",
+    "readingFile": "ottoman-level1.md",
+    "questions": [
+        { "question": "Who was the founder of the Ottoman Empire?", "choices": ["Osman I", "Suleiman", "Selim I", "Mehmed II"], "answer": "Osman I" },
+        { "question": "What year is traditionally considered the founding of the Ottoman Empire?", "choices": ["1200", "1299", "1326", "1453"], "answer": "1299" },
+        { "question": "What ethnic group formed the core of the early Ottomans?", "choices": ["Arabs", "Persians", "Turks", "Greeks"], "answer": "Turks" },
+        { "question": "Where did the Ottomans originally establish their state?", "choices": ["Arabia", "Persia", "Anatolia", "Balkans"], "answer": "Anatolia" },
+        { "question": "What was the capital of the early Ottoman state?", "choices": ["Istanbul", "Ankara", "Bursa", "Damascus"], "answer": "Bursa" },
+        { "question": "Which Ottoman ruler captured Bursa in 1326?", "choices": ["Orhan", "Osman I", "Bayezid I", "Murad I"], "answer": "Orhan" },
+        { "question": "What military system was introduced under Orhan?", "choices": ["Janissaries", "Sipahi cavalry", "Devshirme", "Ghazi warriors"], "answer": "Janissaries" },
+        { "question": "What title did Ottoman rulers adopt to signify authority?", "choices": ["Caliph", "Shah", "Sultan", "Emir"], "answer": "Sultan" },
+        { "question": "What term described the warrior ethos of early Ottomans?", "choices": ["Devshirme", "Ghazi", "Mamluk", "Beylik"], "answer": "Ghazi" },
+        { "question": "Which religious background influenced the Ottoman state?", "choices": ["Christianity", "Zoroastrianism", "Islam", "Hinduism"], "answer": "Islam" },
+        { "question": "What major Christian empire did the Ottomans border?", "choices": ["Holy Roman Empire", "Russian Empire", "Byzantine Empire", "Frankish Kingdom"], "answer": "Byzantine Empire" },
+        { "question": "What battle in 1389 marked a key Ottoman victory in the Balkans?", "choices": ["Battle of Tours", "Battle of Kosovo", "Battle of Manzikert", "Battle of Lepanto"], "answer": "Battle of Kosovo" },
+        { "question": "What system recruited Christian boys into Ottoman service?", "choices": ["Sufism", "Millet system", "Devshirme", "Tanzimat"], "answer": "Devshirme" },
+        { "question": "What elite infantry force emerged from the devshirme?", "choices": ["Bashi-bazouks", "Janissaries", "Sipahis", "Mamluks"], "answer": "Janissaries" },
+        { "question": "Who was the Ottoman sultan at the Battle of Nicopolis (1396)?", "choices": ["Osman I", "Bayezid I", "Murad I", "Mehmed I"], "answer": "Bayezid I" },
+        { "question": "What halted Ottoman expansion temporarily in 1402?", "choices": ["Civil war", "Mongol invasion", "Crusade", "Timur’s victory at Ankara"], "answer": "Timur’s victory at Ankara" },
+        { "question": "What followed Timur’s victory over the Ottomans?", "choices": ["Total collapse", "Peace with Europe", "Ottoman Interregnum", "New capital established"], "answer": "Ottoman Interregnum" },
+        { "question": "What Balkan territory became a core Ottoman region?", "choices": ["Bohemia", "Hungary", "Greece", "Rumelia"], "answer": "Rumelia" },
+        { "question": "Who reunited the Ottoman state after the Interregnum?", "choices": ["Bayezid II", "Mehmed I", "Murad II", "Selim I"], "answer": "Mehmed I" },
+        { "question": "What was the role of a 'bey' in early Ottoman society?", "choices": ["Religious scholar", "Tribal chief or commander", "Tax collector", "Slave soldier"], "answer": "Tribal chief or commander" },
+        { "question": "Which Christian group often served in Ottoman armies?", "choices": ["Bulgarians", "Serbs", "Greeks", "Albanians"], "answer": "Albanians" },
+        { "question": "Which rival Islamic empire competed with the Ottomans early on?", "choices": ["Mughals", "Abbasids", "Fatimids", "Mamluks"], "answer": "Mamluks" },
+        { "question": "How did the Ottomans justify rule over non-Muslims?", "choices": ["Religious conversion", "Trade agreements", "Jizya tax and protection", "Forced assimilation"], "answer": "Jizya tax and protection" },
+        { "question": "What architectural style began under early Ottomans?", "choices": ["Gothic", "Baroque", "Seljuk-Islamic", "Renaissance"], "answer": "Seljuk-Islamic" },
+        { "question": "What was the guiding political philosophy of early Ottomans?", "choices": ["Sufism and Ghazi ideals", "Feudalism", "Divine right monarchy", "Marxism"], "answer": "Sufism and Ghazi ideals" }
+    ]
+}

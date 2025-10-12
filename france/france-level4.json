@@ -1,0 +1,33 @@
+{
+  "country": "France",
+  "level": 4,
+  "title": "Renaissance, Reformation & Wars of Religion",
+  "readingFile": "france-level4.md",
+  "questions": [
+      { "question": "Which French king was a major patron of Renaissance art and humanism?", "choices": ["Louis XI", "Francis I", "Charles IX", "Henry IV"], "answer": "Francis I" },
+      { "question": "Who was the famous Italian artist invited to France by Francis I?", "choices": ["Michelangelo", "Leonardo da Vinci", "Donatello", "Raphael"], "answer": "Leonardo da Vinci" },
+      { "question": "What was the name of French Calvinists?", "choices": ["Hussites", "Huguenots", "Jesuits", "Lollards"], "answer": "Huguenots" },
+      { "question": "What year did the Wars of Religion begin?", "choices": ["1520", "1562", "1598", "1610"], "answer": "1562" },
+      { "question": "What event in 1572 involved the mass killing of Protestants?", "choices": ["Massacre of Meaux", "St. Bartholomew's Day Massacre", "Night of the Long Knives", "Siege of Rouen"], "answer": "St. Bartholomew's Day Massacre" },
+      { "question": "Who was blamed for orchestrating the St. Bartholomew’s Day Massacre?", "choices": ["Henry IV", "Francis I", "Catherine de’ Medici", "Pope Leo X"], "answer": "Catherine de’ Medici" },
+      { "question": "What religious edict ended the Wars of Religion?", "choices": ["Edict of Milan", "Edict of Nantes", "Edict of Worms", "Treaty of Tordesillas"], "answer": "Edict of Nantes" },
+      { "question": "Who issued the Edict of Nantes?", "choices": ["Louis XIII", "Henry IV", "Francis I", "Charles IX"], "answer": "Henry IV" },
+      { "question": "What was Henry IV's famous quote about converting to Catholicism?", "choices": ["God wills it", "A house divided cannot stand", "Paris is worth a Mass", "For the good of the realm"], "answer": "Paris is worth a Mass" },
+      { "question": "What dynasty did Henry IV begin?", "choices": ["Valois", "Merovingian", "Bourbon", "Capetian"], "answer": "Bourbon" },
+      { "question": "What was the purpose of the Edict of Nantes?", "choices": ["To increase taxes", "To abolish feudalism", "To grant religious tolerance", "To declare war"], "answer": "To grant religious tolerance" },
+      { "question": "What religious group benefited from the Edict of Nantes?", "choices": ["Catholics", "Huguenots", "Jesuits", "Anglicans"], "answer": "Huguenots" },
+      { "question": "Who was the mother of Charles IX?", "choices": ["Anne of Brittany", "Catherine de’ Medici", "Isabella of Castile", "Margaret of Valois"], "answer": "Catherine de’ Medici" },
+      { "question": "What cultural movement emphasized classical learning and individual potential?", "choices": ["Baroque", "Romanticism", "Humanism", "Gothicism"], "answer": "Humanism" },
+      { "question": "Which city was most affected by the St. Bartholomew’s Day Massacre?", "choices": ["Lyon", "Rouen", "Paris", "Reims"], "answer": "Paris" },
+      { "question": "Who succeeded Henry III and ended the Wars of Religion?", "choices": ["Henry IV", "Charles IX", "Louis XIII", "Francis II"], "answer": "Henry IV" },
+      { "question": "What role did Admiral Coligny play in the Wars of Religion?", "choices": ["Catholic general", "Jesuit missionary", "Huguenot leader", "Royal advisor"], "answer": "Huguenot leader" },
+      { "question": "What was a long-term effect of the Wars of Religion on France?", "choices": ["Weakening of monarchy", "Strengthening of royal power", "Invasion by Spain", "Rise of democracy"], "answer": "Strengthening of royal power" },
+      { "question": "What architectural legacy did Francis I help foster?", "choices": ["Gothic cathedrals", "Renaissance palaces", "Baroque churches", "Romanesque forts"], "answer": "Renaissance palaces" },
+      { "question": "Which religious group remained dominant in France after the wars?", "choices": ["Huguenots", "Catholics", "Lutherans", "Orthodox Christians"], "answer": "Catholics" },
+      { "question": "What language began to replace Latin in French education during the Renaissance?", "choices": ["German", "French", "Italian", "Spanish"], "answer": "French" },
+      { "question": "What Protestant leader influenced French Huguenots?", "choices": ["Martin Luther", "John Calvin", "Ulrich Zwingli", "John Knox"], "answer": "John Calvin" },
+      { "question": "What impact did the Renaissance have on French literature?", "choices": ["Suppression of books", "Flourishing of poetry and essays", "Decline in interest", "Only religious texts"], "answer": "Flourishing of poetry and essays" },
+      { "question": "The Edict of Nantes was considered a document of:", "choices": ["Revolution", "Toleration", "Suppression", "Rebellion"], "answer": "Toleration" },
+      { "question": "What was the fate of the Edict of Nantes later in French history?", "choices": ["It was reinforced", "It was ignored", "It was revoked", "It was rewritten"], "answer": "It was revoked" }
+  ]
+}

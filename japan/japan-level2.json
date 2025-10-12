@@ -1,0 +1,34 @@
+{
+    "country": "Japan",
+    "level": 2,
+    "title": "Feudal Japan and the Rise of the Samurai",
+    "readingFile": "japan-level2.md",
+    "questions": [
+        { "question": "What was the name of the military government that ruled Japan?", "choices": ["Bakufu", "Kamakura", "Shogunate", "Imperium"], "answer": "Shogunate" },
+        { "question": "Who was the first shogun of Japan?", "choices": ["Minamoto no Yoritomo", "Toyotomi Hideyoshi", "Tokugawa Ieyasu", "Oda Nobunaga"], "answer": "Minamoto no Yoritomo" },
+        { "question": "What was the dominant warrior class in feudal Japan?", "choices": ["Ronin", "Shogun", "Samurai", "Daimyo"], "answer": "Samurai" },
+        { "question": "What code of conduct did samurai follow?", "choices": ["Hiragana", "Seppuku", "Bushido", "Zen"], "answer": "Bushido" },
+        { "question": "What was the role of a daimyo?", "choices": ["Farmer", "Merchant", "Feudal lord", "Buddhist monk"], "answer": "Feudal lord" },
+        { "question": "Which city became the capital during the Kamakura Shogunate?", "choices": ["Kyoto", "Edo", "Nara", "Kamakura"], "answer": "Kamakura" },
+        { "question": "What is 'seppuku'?", "choices": ["Tea ceremony", "Poetry", "Ritual suicide", "Samurai duel"], "answer": "Ritual suicide" },
+        { "question": "What religion became closely tied to samurai values?", "choices": ["Christianity", "Zen Buddhism", "Pure Land Buddhism", "Taoism"], "answer": "Zen Buddhism" },
+        { "question": "Which Mongol ruler attempted to invade Japan?", "choices": ["Genghis Khan", "Kublai Khan", "Tamerlane", "Ogedei"], "answer": "Kublai Khan" },
+        { "question": "What saved Japan from Mongol invasions?", "choices": ["Samurai tactics", "Alliances with Korea", "Typhoons (kamikaze)", "Chinese intervention"], "answer": "Typhoons (kamikaze)" },
+        { "question": "What does 'kamikaze' literally mean?", "choices": ["Golden wind", "Sacred warrior", "Divine wind", "Heavenly sword"], "answer": "Divine wind" },
+        { "question": "Which era followed the Kamakura Shogunate?", "choices": ["Edo", "Muromachi", "Heian", "Sengoku"], "answer": "Muromachi" },
+        { "question": "Which family controlled the Ashikaga Shogunate?", "choices": ["Minamoto", "Fujiwara", "Tokugawa", "Ashikaga"], "answer": "Ashikaga" },
+        { "question": "What was the period of civil war and disorder in 15th–16th century Japan?", "choices": ["Heian period", "Sengoku period", "Genpei War", "Bakumatsu"], "answer": "Sengoku period" },
+        { "question": "What is the title of the emperor's military commander?", "choices": ["Daimyo", "Shogun", "Ronin", "Regent"], "answer": "Shogun" },
+        { "question": "What happened to the emperor's power during feudal times?", "choices": ["It increased", "It disappeared", "It remained symbolic", "It became divine"], "answer": "It remained symbolic" },
+        { "question": "What kind of economy developed in feudal Japan?", "choices": ["Industrial", "Capitalist", "Agrarian", "Mercantile"], "answer": "Agrarian" },
+        { "question": "What were landless samurai called?", "choices": ["Ronin", "Daimyo", "Peasants", "Ninja"], "answer": "Ronin" },
+        { "question": "Who were the lowest class in the feudal hierarchy?", "choices": ["Samurai", "Merchants", "Artisans", "Peasants"], "answer": "Merchants" },
+        { "question": "What art form did samurai often study for discipline?", "choices": ["Calligraphy", "Pottery", "Swordplay", "Tea ceremony"], "answer": "Calligraphy" },
+        { "question": "Which major battle marked the end of the Genpei War?", "choices": ["Battle of Sekigahara", "Battle of Osaka", "Battle of Dan-no-ura", "Battle of Honnō-ji"], "answer": "Battle of Dan-no-ura" },
+        { "question": "What role did the shogun play in Japanese government?", "choices": ["Religious leader", "Symbolic figure", "Military dictator", "Foreign ambassador"], "answer": "Military dictator" },
+        { "question": "What was the relationship between samurai and daimyo?", "choices": ["Samurai were slaves", "Samurai served daimyo", "Daimyo protected samurai", "They were enemies"], "answer": "Samurai served daimyo" },
+        { "question": "What was the name for Japan’s warrior-dominated government?", "choices": ["Monarchy", "Shogunate", "Bakufu", "Kuge"], "answer": "Bakufu" },
+        { "question": "What did samurai value most according to bushido?", "choices": ["Money", "Victory", "Honor and loyalty", "Power and rank"], "answer": "Honor and loyalty" }
+    ]
+}
+

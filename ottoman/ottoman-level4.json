@@ -1,0 +1,34 @@
+{
+    "country": "Ottoman Empire",
+    "level": 4,
+    "title": "Stagnation and Reform Attempts",
+    "readingFile": "ottoman-level4.md",
+    "questions": [
+        { "question": "What period followed the classical golden age in the Ottoman Empire?", "choices": ["Renaissance", "Stagnation", "Decline", "Reformation"], "answer": "Stagnation" },
+        { "question": "What event in 1571 marked a major naval defeat for the Ottomans?", "choices": ["Battle of Mohács", "Battle of Lepanto", "Siege of Vienna", "Battle of Rhodes"], "answer": "Battle of Lepanto" },
+        { "question": "Which European alliance defeated the Ottomans at Lepanto?", "choices": ["Holy Roman Empire", "Holy League", "British Navy", "Crusader States"], "answer": "Holy League" },
+        { "question": "Who led the Ottoman Empire at the time of the Battle of Lepanto?", "choices": ["Suleiman I", "Selim II", "Mehmed III", "Ahmed I"], "answer": "Selim II" },
+        { "question": "What term is used to describe the growing corruption in the Ottoman military and bureaucracy?", "choices": ["Tanzimat", "Sultanate of Women", "Timar decay", "Janissary corruption"], "answer": "Janissary corruption" },
+        { "question": "What role did the Janissaries play in Ottoman stagnation?", "choices": ["They refused new training", "They seized political power", "They supported reform", "They joined European armies"], "answer": "They seized political power" },
+        { "question": "What was the 'Sultanate of Women'?", "choices": ["Rule by concubines", "A period of harem political influence", "A feminist movement", "A time of queen regents"], "answer": "A period of harem political influence" },
+        { "question": "Which influential woman was the mother of Sultan Mehmed IV?", "choices": ["Hurrem Sultan", "Kösem Sultan", "Roxelana", "Safiye Sultan"], "answer": "Kösem Sultan" },
+        { "question": "What system of land grants began to break down?", "choices": ["Millet system", "Devshirme", "Timar system", "Iltizam"], "answer": "Timar system" },
+        { "question": "What major siege in 1683 ended in Ottoman failure?", "choices": ["Siege of Constantinople", "Siege of Rhodes", "Second Siege of Vienna", "Siege of Belgrade"], "answer": "Second Siege of Vienna" },
+        { "question": "Which empire helped break the Ottoman siege of Vienna in 1683?", "choices": ["Russian Empire", "Habsburg Empire", "French Empire", "British Empire"], "answer": "Habsburg Empire" },
+        { "question": "What treaty in 1699 marked significant territorial loss?", "choices": ["Treaty of Passarowitz", "Treaty of Tordesillas", "Treaty of Karlowitz", "Treaty of Paris"], "answer": "Treaty of Karlowitz" },
+        { "question": "Which region did the Ottomans lose in the Treaty of Karlowitz?", "choices": ["Anatolia", "Hungary", "Egypt", "Rumelia"], "answer": "Hungary" },
+        { "question": "What reforms were attempted during the Tulip Period?", "choices": ["Islamization", "Militarization", "Westernization", "Feudalism"], "answer": "Westernization" },
+        { "question": "What was the main architectural influence during the Tulip Period?", "choices": ["Mamluk", "Safavid", "Baroque", "Seljuk"], "answer": "Baroque" },
+        { "question": "Which sultan is associated with the Tulip Period?", "choices": ["Selim III", "Ahmed III", "Mahmud II", "Mustafa I"], "answer": "Ahmed III" },
+        { "question": "What cultural shift occurred during the Tulip Period?", "choices": ["Return to tribal traditions", "Rise of Islamic fundamentalism", "Adoption of European arts and gardens", "Suppression of science"], "answer": "Adoption of European arts and gardens" },
+        { "question": "What group violently ended the Tulip Period reforms?", "choices": ["Janissaries", "Peasants", "Merchants", "Sufis"], "answer": "Janissaries" },
+        { "question": "What technological reform did the Ottomans resist for centuries?", "choices": ["Gunpowder", "Printing press", "Shipbuilding", "Railroads"], "answer": "Printing press" },
+        { "question": "What role did foreign embassies play in the Ottoman decline?", "choices": ["Military alliances", "Spreading revolutions", "Centers for espionage and influence", "Tax collection"], "answer": "Centers for espionage and influence" },
+        { "question": "What was one economic cause of Ottoman decline?", "choices": ["Overproduction", "Loss of trade routes", "High literacy", "Agricultural boom"], "answer": "Loss of trade routes" },
+        { "question": "How did European naval expansion affect the Ottomans?", "choices": ["Improved Ottoman trade", "Made Ottomans a naval power", "Bypassed Ottoman-controlled routes", "Led to Ottoman discovery of America"], "answer": "Bypassed Ottoman-controlled routes" },
+        { "question": "What military corps became increasingly hereditary and corrupt?", "choices": ["Mamluks", "Janissaries", "Sipahis", "Artillery"], "answer": "Janissaries" },
+        { "question": "What practice made succession increasingly unstable?", "choices": ["Free elections", "Puppet sultans", "Confinement of princes", "Military coups"], "answer": "Confinement of princes" },
+        { "question": "Which European power became the main rival of the Ottomans in Central Europe?", "choices": ["France", "Spain", "Austria", "England"], "answer": "Austria" }
+    ]
+}
+

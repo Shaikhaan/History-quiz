@@ -1,0 +1,133 @@
+{
+  "country": "England",
+  "level": 2,
+  "title": "Normans & Plantagenets (1066–1485)",
+  "readingFile": "england-level2.md",
+  "questions": [
+    {
+      "question": "In what year did the Battle of Hastings take place?",
+      "choices": ["1215", "1066", "1189", "1415"],
+      "answer": "1066"
+    },
+    {
+      "question": "Who became king of England after the Battle of Hastings?",
+      "choices": ["Harold Godwinson", "William the Conqueror", "Edward the Confessor", "Richard the Lionheart"],
+      "answer": "William the Conqueror"
+    },
+    {
+      "question": "What was the Domesday Book?",
+      "choices": ["A medieval novel", "A tax survey of England", "A religious manuscript", "A book of laws"],
+      "answer": "A tax survey of England"
+    },
+    {
+      "question": "Which language influenced English heavily after the Norman Conquest?",
+      "choices": ["Latin", "French", "German", "Celtic"],
+      "answer": "French"
+    },
+    {
+      "question": "Which king signed the Magna Carta?",
+      "choices": ["Henry II", "Richard I", "John", "Edward I"],
+      "answer": "John"
+    },
+    {
+      "question": "In what year was the Magna Carta signed?",
+      "choices": ["1066", "1215", "1348", "1485"],
+      "answer": "1215"
+    },
+    {
+      "question": "Which war began in 1337 and lasted over a century?",
+      "choices": ["War of the Roses", "English Civil War", "Hundred Years’ War", "Crusades"],
+      "answer": "Hundred Years’ War"
+    },
+    {
+      "question": "Who was the English hero of the Battle of Agincourt?",
+      "choices": ["Henry II", "Henry V", "Richard III", "Edward IV"],
+      "answer": "Henry V"
+    },
+    {
+      "question": "What was the Black Death?",
+      "choices": ["A religious movement", "A series of battles", "A plague", "A tax revolt"],
+      "answer": "A plague"
+    },
+    {
+      "question": "Which event greatly reduced England’s population in the 14th century?",
+      "choices": ["The Crusades", "The Black Death", "The Norman Conquest", "The Peasants’ Revolt"],
+      "answer": "The Black Death"
+    },
+    {
+      "question": "Which rebellion occurred in 1381?",
+      "choices": ["Barons’ War", "Peasants’ Revolt", "Glorious Revolution", "Wars of the Roses"],
+      "answer": "Peasants’ Revolt"
+    },
+    {
+      "question": "Who led the Peasants’ Revolt of 1381?",
+      "choices": ["Wat Tyler", "Simon de Montfort", "William Wallace", "Jack Cade"],
+      "answer": "Wat Tyler"
+    },
+    {
+      "question": "What were the two rival houses in the Wars of the Roses?",
+      "choices": ["Lancaster and York", "Wessex and Mercia", "Tudor and Stuart", "Norman and Saxon"],
+      "answer": "Lancaster and York"
+    },
+    {
+      "question": "Which house used a red rose as its symbol?",
+      "choices": ["York", "Tudor", "Lancaster", "Stuart"],
+      "answer": "Lancaster"
+    },
+    {
+      "question": "Who won the Battle of Bosworth Field in 1485?",
+      "choices": ["Richard III", "Henry VI", "Edward IV", "Henry Tudor"],
+      "answer": "Henry Tudor"
+    },
+    {
+      "question": "Who was the last Plantagenet king?",
+      "choices": ["Edward III", "Richard III", "Henry VI", "Edward IV"],
+      "answer": "Richard III"
+    },
+    {
+      "question": "Which king established common law in England?",
+      "choices": ["William I", "Henry II", "Edward I", "John"],
+      "answer": "Henry II"
+    },
+    {
+      "question": "Which queen ruled as regent while Richard I was on crusade?",
+      "choices": ["Matilda", "Eleanor of Aquitaine", "Isabella", "Anne Boleyn"],
+      "answer": "Eleanor of Aquitaine"
+    },
+    {
+      "question": "Which king was known as the Lionheart?",
+      "choices": ["Edward I", "Henry V", "Richard I", "John"],
+      "answer": "Richard I"
+    },
+    {
+      "question": "What document limited the power of the monarchy for the first time?",
+      "choices": ["The Domesday Book", "The Magna Carta", "The Bill of Rights", "The Act of Union"],
+      "answer": "The Magna Carta"
+    },
+    {
+      "question": "What was a key outcome of the Norman Conquest?",
+      "choices": ["Collapse of the monarchy", "Integration of French culture", "End of Christianity", "Unification with Scotland"],
+      "answer": "Integration of French culture"
+    },
+    {
+      "question": "Who built many castles across England after 1066?",
+      "choices": ["Saxons", "Danes", "Normans", "Romans"],
+      "answer": "Normans"
+    },
+    {
+      "question": "What was the purpose of the Domesday Book?",
+      "choices": ["Religious instruction", "Royal family tree", "Land taxation", "Chronicle of kings"],
+      "answer": "Land taxation"
+    },
+    {
+      "question": "Which king accidentally caused the Becket controversy?",
+      "choices": ["Henry II", "Edward I", "Richard II", "William I"],
+      "answer": "Henry II"
+    },
+    {
+      "question": "What year marked the end of the Plantagenet dynasty?",
+      "choices": ["1415", "1485", "1066", "1215"],
+      "answer": "1485"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "country": "England",
+  "level": 5,
+  "title": "Empire, Industry & Modern Britain (1714–Present)",
+  "readingFile": "england-level5.md",
+  "questions": [
+    { "question": "Who became king after Queen Anne in 1714?", "choices": ["George I", "James II", "Charles II", "William III"], "answer": "George I" },
+    { "question": "What revolution transformed Britain’s economy in the 18th century?", "choices": ["Scientific Revolution", "Agricultural Revolution", "Industrial Revolution", "Digital Revolution"], "answer": "Industrial Revolution" },
+    { "question": "Which city grew rapidly during the Industrial Revolution?", "choices": ["Oxford", "Birmingham", "Canterbury", "Windsor"], "answer": "Birmingham" },
+    { "question": "Who improved the steam engine in the 18th century?", "choices": ["Isaac Newton", "James Watt", "Robert Peel", "Charles Babbage"], "answer": "James Watt" },
+    { "question": "What major international event occurred from 1914 to 1918?", "choices": ["Napoleonic Wars", "World War I", "Crimean War", "Boer War"], "answer": "World War I" },
+    { "question": "What year did women over 30 gain the vote in Britain?", "choices": ["1900", "1918", "1928", "1945"], "answer": "1918" },
+    { "question": "Which monarch ruled during the peak of the British Empire?", "choices": ["Elizabeth I", "Victoria", "George III", "Edward VII"], "answer": "Victoria" },
+    { "question": "What was the Great Exhibition of 1851 meant to celebrate?", "choices": ["The royal wedding", "The abolition of slavery", "Industrial and imperial power", "Parliamentary democracy"], "answer": "Industrial and imperial power" },
+    { "question": "Which country gained independence from Britain in 1947?", "choices": ["Canada", "India", "Australia", "Kenya"], "answer": "India" },
+    { "question": "What was the NHS created to provide?", "choices": ["Education", "Healthcare", "Housing", "Employment"], "answer": "Healthcare" },
+    { "question": "Who was Prime Minister during much of WWII?", "choices": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Tony Blair"], "answer": "Winston Churchill" },
+    { "question": "Which event marked Britain’s decision to leave the EU?", "choices": ["Scottish Referendum", "London Riots", "Brexit Referendum", "European Summit"], "answer": "Brexit Referendum" },
+    { "question": "When did the Brexit referendum take place?", "choices": ["2012", "2014", "2016", "2020"], "answer": "2016" },
+    { "question": "Which 20th-century Prime Minister was known for privatization and free-market policies?", "choices": ["Harold Wilson", "Margaret Thatcher", "John Major", "Theresa May"], "answer": "Margaret Thatcher" },
+    { "question": "When was the NHS founded?", "choices": ["1938", "1948", "1958", "1968"], "answer": "1948" },
+    { "question": "What pandemic hit Britain in 2020?", "choices": ["Spanish Flu", "Bird Flu", "SARS", "COVID-19"], "answer": "COVID-19" },
+    { "question": "Who was British Prime Minister during the Iraq War in 2003?", "choices": ["Gordon Brown", "David Cameron", "Tony Blair", "John Major"], "answer": "Tony Blair" },
+    { "question": "What was the main goal of the 1832 Reform Act?", "choices": ["Ban slavery", "Allow women to vote", "Expand voting rights", "Introduce welfare"], "answer": "Expand voting rights" },
+    { "question": "Which Queen reigned during the Industrial and imperial boom?", "choices": ["Anne", "Victoria", "Mary", "Elizabeth II"], "answer": "Victoria" },
+    { "question": "Which major 20th-century war led to the rise of the welfare state?", "choices": ["WWI", "WWII", "Cold War", "Boer War"], "answer": "WWII" },
+    { "question": "Who is considered the first British Prime Minister?", "choices": ["Winston Churchill", "Robert Walpole", "Benjamin Disraeli", "David Lloyd George"], "answer": "Robert Walpole" },
+    { "question": "Which group immigrated heavily to Britain after WWII?", "choices": ["Americans", "West Indians", "Russians", "Australians"], "answer": "West Indians" },
+    { "question": "Which global sporting event did Britain host in 2012?", "choices": ["World Cup", "Commonwealth Games", "Olympics", "Tour de France"], "answer": "Olympics" },
+    { "question": "Which political leader followed Thatcher as Prime Minister?", "choices": ["Tony Blair", "John Major", "David Cameron", "Gordon Brown"], "answer": "John Major" },
+    { "question": "What act legally united England and Ireland in 1801?", "choices": ["Union Act", "Treaty of Windsor", "Act of Union", "Irish Compact"], "answer": "Act of Union" }
+  ]
+}

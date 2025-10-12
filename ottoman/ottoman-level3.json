@@ -1,0 +1,33 @@
+{
+    "country": "Ottoman Empire",
+    "level": 3,
+    "title": "The Classical Golden Age under Suleiman the Magnificent",
+    "readingFile": "ottoman-level3.md",
+    "questions": [
+        { "question": "Which Ottoman ruler is known as 'the Magnificent'?", "choices": ["Mehmed II", "Selim I", "Suleiman I", "Bayezid II"], "answer": "Suleiman I" },
+        { "question": "During which century did Suleiman the Magnificent rule?", "choices": ["14th", "15th", "16th", "17th"], "answer": "16th" },
+        { "question": "What title did Suleiman hold in the Islamic world?", "choices": ["Imam", "Caliph", "Mullah", "Mufti"], "answer": "Caliph" },
+        { "question": "What was Suleiman’s empire known for under his rule?", "choices": ["Decay", "Decline", "Golden Age", "Isolation"], "answer": "Golden Age" },
+        { "question": "Which major European capital did Suleiman unsuccessfully besiege in 1529?", "choices": ["Vienna", "Rome", "Paris", "Prague"], "answer": "Vienna" },
+        { "question": "What system allowed for religious tolerance in the Ottoman Empire?", "choices": ["Kanun", "Feudalism", "Devshirme", "Millet system"], "answer": "Millet system" },
+        { "question": "What legal reforms did Suleiman introduce?", "choices": ["Civil code only", "Islamic law only", "Kanun (imperial law)", "No legal reforms"], "answer": "Kanun (imperial law)" },
+        { "question": "Who was Suleiman’s chief architect?", "choices": ["Orban", "Sinan", "Rustem", "Piri Reis"], "answer": "Sinan" },
+        { "question": "What famous mosque did Sinan build for Suleiman?", "choices": ["Blue Mosque", "Hagia Sophia", "Suleymaniye Mosque", "Fatih Mosque"], "answer": "Suleymaniye Mosque" },
+        { "question": "What important naval leader served under Suleiman?", "choices": ["Selim Reis", "Sinan Pasha", "Barbarossa", "Oruc"], "answer": "Barbarossa" },
+        { "question": "Which rival empire did the Ottomans fight frequently under Suleiman?", "choices": ["Mughal Empire", "Byzantine Empire", "Safavid Empire", "Mamluks"], "answer": "Safavid Empire" },
+        { "question": "What region did the Ottomans gain from the Safavids under Suleiman?", "choices": ["Egypt", "Anatolia", "Mesopotamia", "Balkans"], "answer": "Mesopotamia" },
+        { "question": "What role did Hurrem Sultan play in Suleiman’s court?", "choices": ["Advisor", "Architect", "Wife and political influence", "General"], "answer": "Wife and political influence" },
+        { "question": "What was Suleiman’s relationship with Hurrem Sultan unusual for?", "choices": ["She was a Christian", "He married her officially", "She ruled alone", "She was his sister"], "answer": "He married her officially" },
+        { "question": "What kind of art flourished under Suleiman?", "choices": ["Western oil painting", "Miniature painting and calligraphy", "Chinese pottery", "Japanese ink art"], "answer": "Miniature painting and calligraphy" },
+        { "question": "What position did Ibrahim Pasha hold?", "choices": ["Chief architect", "Grand Vizier", "Admiral", "Poet"], "answer": "Grand Vizier" },
+        { "question": "What was Suleiman's nickname in Europe?", "choices": ["The Wise", "The Victorious", "The Magnificent", "The Just"], "answer": "The Magnificent" },
+        { "question": "What was Suleiman's nickname within the Ottoman Empire?", "choices": ["The Conqueror", "The Brave", "The Merciful", "The Lawgiver"], "answer": "The Lawgiver" },
+        { "question": "What role did the Janissaries play during Suleiman’s reign?", "choices": ["Scholars", "Farmers", "Elite soldiers", "Merchants"], "answer": "Elite soldiers" },
+        { "question": "What empire did Suleiman clash with in the Mediterranean?", "choices": ["Venetian Republic", "Spanish Empire", "British Empire", "Dutch Republic"], "answer": "Spanish Empire" },
+        { "question": "What was Suleiman’s policy toward different religions?", "choices": ["Persecution", "Forced conversion", "Tolerance under the millet system", "Exile"], "answer": "Tolerance under the millet system" },
+        { "question": "What document compiled Suleiman’s laws?", "choices": ["Magna Carta", "Suleimannama", "Kanunname", "Constitution"], "answer": "Kanunname" },
+        { "question": "Where did Suleiman die?", "choices": ["Istanbul", "Baghdad", "Vienna", "Szigetvár"], "answer": "Szigetvár" },
+        { "question": "Who succeeded Suleiman the Magnificent?", "choices": ["Bayezid II", "Selim II", "Murad III", "Mustafa I"], "answer": "Selim II" }
+    ]
+}
+

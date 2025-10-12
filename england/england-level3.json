@@ -1,0 +1,133 @@
+{
+  "country": "England",
+  "level": 3,
+  "title": "The Tudor Age (1485–1603)",
+  "readingFile": "england-level3.md",
+  "questions": [
+    {
+      "question": "Who founded the Tudor dynasty?",
+      "choices": ["Henry VIII", "Henry VII", "Edward VI", "Richard III"],
+      "answer": "Henry VII"
+    },
+    {
+      "question": "Which battle ended the Wars of the Roses?",
+      "choices": ["Battle of Agincourt", "Battle of Hastings", "Battle of Bosworth Field", "Battle of Towton"],
+      "answer": "Battle of Bosworth Field"
+    },
+    {
+      "question": "Who had six wives?",
+      "choices": ["Henry V", "Henry VIII", "Edward VI", "James I"],
+      "answer": "Henry VIII"
+    },
+    {
+      "question": "Which English church did Henry VIII create?",
+      "choices": ["Church of Rome", "Anglican Church", "Church of England", "Puritan Church"],
+      "answer": "Church of England"
+    },
+    {
+      "question": "Why did Henry VIII break from the Catholic Church?",
+      "choices": ["He wanted to invade France", "He was excommunicated", "He wanted a divorce", "He became Protestant"],
+      "answer": "He wanted a divorce"
+    },
+    {
+      "question": "Which wife gave birth to Edward VI?",
+      "choices": ["Anne Boleyn", "Catherine of Aragon", "Jane Seymour", "Anne of Cleves"],
+      "answer": "Jane Seymour"
+    },
+    {
+      "question": "Which Tudor monarch was known as 'Bloody Mary'?",
+      "choices": ["Mary I", "Elizabeth I", "Mary Queen of Scots", "Anne Boleyn"],
+      "answer": "Mary I"
+    },
+    {
+      "question": "What was the fate of Anne Boleyn?",
+      "choices": ["Exile", "Died in childbirth", "Beheaded", "Divorced and imprisoned"],
+      "answer": "Beheaded"
+    },
+    {
+      "question": "Which monarch defeated the Spanish Armada?",
+      "choices": ["Henry VIII", "Elizabeth I", "Edward VI", "James I"],
+      "answer": "Elizabeth I"
+    },
+    {
+      "question": "When did the Spanish Armada attempt to invade England?",
+      "choices": ["1485", "1588", "1534", "1603"],
+      "answer": "1588"
+    },
+    {
+      "question": "What was the Reformation?",
+      "choices": ["A war with France", "A religious movement breaking from the Catholic Church", "A peasant revolt", "An economic reform law"],
+      "answer": "A religious movement breaking from the Catholic Church"
+    },
+    {
+      "question": "Who succeeded Elizabeth I?",
+      "choices": ["Mary Queen of Scots", "James I", "Henry VIII", "Edward VI"],
+      "answer": "James I"
+    },
+    {
+      "question": "What was Elizabeth I's religious policy known as?",
+      "choices": ["Puritan Act", "Act of Uniformity", "Religious Tolerance Act", "Catholic Compact"],
+      "answer": "Act of Uniformity"
+    },
+    {
+      "question": "Which famous playwright flourished during Elizabeth’s reign?",
+      "choices": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Christopher Marlowe"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Which monarch is associated with the Elizabethan Age?",
+      "choices": ["Elizabeth I", "Mary I", "Anne", "Victoria"],
+      "answer": "Elizabeth I"
+    },
+    {
+      "question": "Which Tudor monarch was Edward VI’s half-sister?",
+      "choices": ["Elizabeth I", "Jane Seymour", "Anne of Cleves", "Catherine Parr"],
+      "answer": "Elizabeth I"
+    },
+    {
+      "question": "What was the title of Henry VIII’s only legitimate son?",
+      "choices": ["Edward V", "Edward VI", "Edward VII", "Edward IV"],
+      "answer": "Edward VI"
+    },
+    {
+      "question": "Which Tudor queen reigned the longest?",
+      "choices": ["Mary I", "Elizabeth I", "Jane Grey", "Anne Boleyn"],
+      "answer": "Elizabeth I"
+    },
+    {
+      "question": "Who was the mother of Elizabeth I?",
+      "choices": ["Catherine of Aragon", "Anne Boleyn", "Jane Seymour", "Anne of Cleves"],
+      "answer": "Anne Boleyn"
+    },
+    {
+      "question": "Who was queen for just 9 days in 1553?",
+      "choices": ["Mary I", "Elizabeth I", "Jane Grey", "Anne of Cleves"],
+      "answer": "Jane Grey"
+    },
+    {
+      "question": "Which religion did Mary I try to restore in England?",
+      "choices": ["Islam", "Protestantism", "Catholicism", "Judaism"],
+      "answer": "Catholicism"
+    },
+    {
+      "question": "What was the fate of Mary Queen of Scots?",
+      "choices": ["Married Elizabeth’s cousin", "Ruled Scotland for 40 years", "Beheaded by Elizabeth I", "Exiled to France"],
+      "answer": "Beheaded by Elizabeth I"
+    },
+    {
+      "question": "Where was Henry VIII buried?",
+      "choices": ["Westminster Abbey", "St. Paul’s Cathedral", "Windsor Castle", "Canterbury Cathedral"],
+      "answer": "Windsor Castle"
+    },
+    {
+      "question": "What type of court did Elizabeth I famously avoid marrying into?",
+      "choices": ["Spanish", "Scottish", "French", "Holy Roman"],
+      "answer": "Spanish"
+    },
+    {
+      "question": "What was the title of the monarch who followed Elizabeth I?",
+      "choices": ["James I", "Charles I", "George I", "William III"],
+      "answer": "James I"
+    }
+  ]
+}

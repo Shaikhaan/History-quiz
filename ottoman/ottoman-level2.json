@@ -1,0 +1,33 @@
+{
+    "country": "Ottoman Empire",
+    "level": 2,
+    "title": "Expansion into Europe and the Fall of Constantinople",
+    "readingFile": "ottoman-level2.md",
+    "questions": [
+        { "question": "Who was the Ottoman sultan during the conquest of Constantinople?", "choices": ["Selim I", "Murad II", "Mehmed II", "Bayezid II"], "answer": "Mehmed II" },
+        { "question": "In what year did Constantinople fall to the Ottomans?", "choices": ["1402", "1453", "1492", "1517"], "answer": "1453" },
+        { "question": "What title did Mehmed II adopt after the conquest of Constantinople?", "choices": ["Caliph", "Sultan of Sultans", "Emperor of Rome", "Protector of Islam"], "answer": "Emperor of Rome" },
+        { "question": "What was Constantinople renamed after its conquest?", "choices": ["Adrianople", "Bursa", "Istanbul", "Anatolia"], "answer": "Istanbul" },
+        { "question": "Which famous defensive structure did the Ottomans breach during the siege?", "choices": ["Theodosian Walls", "Hadrian’s Wall", "Caspian Gate", "Sultan’s Wall"], "answer": "Theodosian Walls" },
+        { "question": "What key technology did the Ottomans use in the siege?", "choices": ["Gunpowder artillery", "Catapults", "Elephants", "Flamethrowers"], "answer": "Gunpowder artillery" },
+        { "question": "What was the name of the massive cannon used by Mehmed II?", "choices": ["Basilisk", "Great Turkish Bombard", "Thunderbolt", "Orban’s Cannon"], "answer": "Orban’s Cannon" },
+        { "question": "Who was the Byzantine emperor during the fall of Constantinople?", "choices": ["Justinian", "Alexios I", "Constantine XI", "Manuel II"], "answer": "Constantine XI" },
+        { "question": "What was the significance of the Hagia Sophia to the Ottomans?", "choices": ["Converted to a palace", "Destroyed", "Turned into a mosque", "Used as an armory"], "answer": "Turned into a mosque" },
+        { "question": "Which earlier Ottoman ruler attempted to conquer Constantinople but failed?", "choices": ["Osman I", "Murad I", "Bayezid I", "Selim I"], "answer": "Bayezid I" },
+        { "question": "How did Mehmed II ensure trade and prosperity in his new capital?", "choices": ["Built factories", "Invited diverse populations", "Closed the city to foreigners", "Imported goods from China"], "answer": "Invited diverse populations" },
+        { "question": "Which Christian sects were allowed autonomy in the Ottoman Empire?", "choices": ["Only Orthodox", "Only Catholics", "Various under the millet system", "None"], "answer": "Various under the millet system" },
+        { "question": "What system allowed religious communities to govern themselves?", "choices": ["Devshirme", "Feudalism", "Millet system", "Kanun"], "answer": "Millet system" },
+        { "question": "What region did the Ottomans conquer after Constantinople?", "choices": ["Spain", "Hungary", "The Balkans", "Italy"], "answer": "The Balkans" },
+        { "question": "Which city became a major administrative center under Mehmed II?", "choices": ["Cairo", "Baghdad", "Edirne", "Istanbul"], "answer": "Istanbul" },
+        { "question": "Which institution was developed to train future Ottoman officials?", "choices": ["Sultan’s Guard", "Imperial College", "Enderun School", "Dar al-Hikma"], "answer": "Enderun School" },
+        { "question": "What legal code did Mehmed II issue to organize the empire?", "choices": ["Sharif Code", "Kanunname", "Fiqh Manual", "Civilis Ordinance"], "answer": "Kanunname" },
+        { "question": "Which group posed major resistance to the Ottomans in the Balkans?", "choices": ["Italians", "Hungarians", "Serbians", "Albanians"], "answer": "Albanians" },
+        { "question": "Who was the famous Albanian leader who resisted Ottoman rule?", "choices": ["Skanderbeg", "Vlad Tepes", "John Hunyadi", "Stephen the Great"], "answer": "Skanderbeg" },
+        { "question": "Which city was key in Ottoman expansion in the Balkans?", "choices": ["Sofia", "Belgrade", "Thessaloniki", "Skopje"], "answer": "Belgrade" },
+        { "question": "What faith did the Ottomans generally allow to continue in conquered lands?", "choices": ["Hinduism", "Judaism and Christianity", "Zoroastrianism", "Paganism"], "answer": "Judaism and Christianity" },
+        { "question": "What important trade routes passed through Constantinople?", "choices": ["Silk Road", "Amber Road", "Gold Coast", "Trans-Saharan Route"], "answer": "Silk Road" },
+        { "question": "What did the fall of Constantinople symbolize to many in Europe?", "choices": ["A shift in trade", "End of the Roman Empire", "Ottoman weakness", "Byzantine revival"], "answer": "End of the Roman Empire" },
+        { "question": "How did Europe respond to the fall of Constantinople?", "choices": ["Launched a crusade", "Trade boycott", "Diplomatic alliance", "Increased fear of Ottoman power"], "answer": "Increased fear of Ottoman power" },
+        { "question": "What geographic feature made Constantinople hard to conquer?", "choices": ["Deserts", "Islands", "Water barriers and walls", "Mountains"], "answer": "Water barriers and walls" }
+    ]
+}

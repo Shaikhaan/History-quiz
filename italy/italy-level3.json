@@ -1,0 +1,33 @@
+{
+    "country": "Italy",
+    "level": 3,
+    "title": "Renaissance Italy",
+    "readingFile": "italy-level3.md",
+    "questions": [
+        { "question": "What does the word 'Renaissance' mean?", "choices": ["Rebirth", "Revolution", "Return", "Restoration"], "answer": "Rebirth" },
+        { "question": "Where did the Renaissance begin?", "choices": ["France", "Germany", "Italy", "Spain"], "answer": "Italy" },
+        { "question": "Which Italian city is considered the birthplace of the Renaissance?", "choices": ["Rome", "Venice", "Florence", "Milan"], "answer": "Florence" },
+        { "question": "Which powerful family helped fund the Renaissance in Florence?", "choices": ["Borgia", "Medici", "Sforza", "Visconti"], "answer": "Medici" },
+        { "question": "Who painted the Mona Lisa?", "choices": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Botticelli"], "answer": "Leonardo da Vinci" },
+        { "question": "Which Renaissance artist sculpted 'David' and painted the Sistine Chapel?", "choices": ["Raphael", "Donatello", "Michelangelo", "Leonardo da Vinci"], "answer": "Michelangelo" },
+        { "question": "What is humanism?", "choices": ["Focus on the divine", "Military training", "Emphasis on human potential and classical learning", "Feudal loyalty"], "answer": "Emphasis on human potential and classical learning" },
+        { "question": "Who wrote 'The Prince'?", "choices": ["Petrarch", "Machiavelli", "Boccaccio", "Erasmus"], "answer": "Machiavelli" },
+        { "question": "Which Florentine architect designed the dome of Florence Cathedral?", "choices": ["Giotto", "Raphael", "Brunelleschi", "Michelangelo"], "answer": "Brunelleschi" },
+        { "question": "What helped Renaissance ideas spread quickly?", "choices": ["Oral tradition", "Inquisitions", "Printing press", "Pilgrimages"], "answer": "Printing press" },
+        { "question": "What language did most Renaissance scholars use?", "choices": ["Italian", "Greek", "Latin", "Arabic"], "answer": "Latin" },
+        { "question": "Which Renaissance thinker is considered the 'Father of Humanism'?", "choices": ["Boccaccio", "Petrarch", "Machiavelli", "Dante"], "answer": "Petrarch" },
+        { "question": "Which of the following was a Renaissance city-state?", "choices": ["Madrid", "Florence", "London", "Berlin"], "answer": "Florence" },
+        { "question": "What was the dominant subject in Renaissance art?", "choices": ["Nature only", "Religious and classical themes", "War scenes", "Medieval castles"], "answer": "Religious and classical themes" },
+        { "question": "Which technique did Renaissance artists use to create depth?", "choices": ["Flat shading", "Gold leaf", "Linear perspective", "Silhouetting"], "answer": "Linear perspective" },
+        { "question": "What did Renaissance scientists and artists often study to improve realism?", "choices": ["Stars", "Plants", "Human anatomy", "Architecture"], "answer": "Human anatomy" },
+        { "question": "Which family ruled Milan during parts of the Renaissance?", "choices": ["Visconti", "Borgia", "Colonna", "Gonzaga"], "answer": "Visconti" },
+        { "question": "Who painted 'The Birth of Venus'?", "choices": ["Titian", "Leonardo da Vinci", "Botticelli", "Caravaggio"], "answer": "Botticelli" },
+        { "question": "What type of government was common in Renaissance city-states?", "choices": ["Theocracy", "Feudal monarchy", "Republic or oligarchy", "Democracy"], "answer": "Republic or oligarchy" },
+        { "question": "Which Renaissance pope was a major art patron and war leader?", "choices": ["Leo X", "Innocent III", "Julius II", "Urban II"], "answer": "Julius II" },
+        { "question": "Which Renaissance figure is often described as a 'universal genius'?", "choices": ["Michelangelo", "Dante", "Leonardo da Vinci", "Machiavelli"], "answer": "Leonardo da Vinci" },
+        { "question": "What major crisis preceded the Renaissance and may have spurred it?", "choices": ["Hundred Years’ War", "Fall of Rome", "Black Death", "Mongol invasions"], "answer": "Black Death" },
+        { "question": "Who was known for combining art and engineering in notebooks?", "choices": ["Galileo", "Brunelleschi", "Leonardo da Vinci", "Raphael"], "answer": "Leonardo da Vinci" },
+        { "question": "Which art form did Donatello primarily work in?", "choices": ["Painting", "Sculpture", "Fresco", "Architecture"], "answer": "Sculpture" },
+        { "question": "The Renaissance is often seen as a bridge between which two periods?", "choices": ["Ancient and Modern", "Feudal and Industrial", "Medieval and Enlightenment", "Roman and Gothic"], "answer": "Ancient and Modern" }
+    ]
+}

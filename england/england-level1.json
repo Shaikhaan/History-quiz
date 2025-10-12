@@ -1,0 +1,133 @@
+{
+  "country": "England",
+  "level": 1,
+  "title": "From Celts to Conquest",
+  "readingFile": "england-level1.md",
+  "questions": [
+    {
+      "question": "Which people were dominant in Britain before the Roman invasion?",
+      "choices": ["Celts", "Anglo-Saxons", "Normans", "Vikings"],
+      "answer": "Celts"
+    },
+    {
+      "question": "When did the Romans invade Britain?",
+      "choices": ["55 BCE", "43 CE", "1066 CE", "410 CE"],
+      "answer": "43 CE"
+    },
+    {
+      "question": "What was the purpose of Hadrian's Wall?",
+      "choices": ["To divide England and Wales", "To mark the end of the Roman Empire", "To defend Roman Britain from northern tribes", "To tax merchants"],
+      "answer": "To defend Roman Britain from northern tribes"
+    },
+    {
+      "question": "Which Roman feature still influences British roads today?",
+      "choices": ["Milestones", "Roundabouts", "Roman straight roads", "Roman aqueducts"],
+      "answer": "Roman straight roads"
+    },
+    {
+      "question": "Which group settled Britain after the Romans left?",
+      "choices": ["Normans", "Celts", "Anglo-Saxons", "Picts"],
+      "answer": "Anglo-Saxons"
+    },
+    {
+      "question": "Which Anglo-Saxon kingdom was located in the southwest?",
+      "choices": ["Northumbria", "Mercia", "Wessex", "Kent"],
+      "answer": "Wessex"
+    },
+    {
+      "question": "Who was the first king to call himself 'King of the English'?",
+      "choices": ["Alfred the Great", "Edward the Confessor", "Æthelstan", "Harold Godwinson"],
+      "answer": "Æthelstan"
+    },
+    {
+      "question": "Who led the Christian mission to convert Anglo-Saxons in 597 CE?",
+      "choices": ["St. Patrick", "St. George", "St. Augustine", "St. Cuthbert"],
+      "answer": "St. Augustine"
+    },
+    {
+      "question": "Which Scandinavian people raided Britain in the 9th century?",
+      "choices": ["Normans", "Franks", "Moors", "Vikings"],
+      "answer": "Vikings"
+    },
+    {
+      "question": "What was the Danelaw?",
+      "choices": ["A Viking tax", "A treaty with France", "A Viking-controlled region of England", "An Anglo-Saxon religious law"],
+      "answer": "A Viking-controlled region of England"
+    },
+    {
+      "question": "Which king defended England against the Great Heathen Army?",
+      "choices": ["Edward the Confessor", "Alfred the Great", "Harold Godwinson", "Æthelred the Unready"],
+      "answer": "Alfred the Great"
+    },
+    {
+      "question": "Which king ruled just before the Norman Conquest?",
+      "choices": ["William the Conqueror", "Edgar Atheling", "Edward the Confessor", "Canute"],
+      "answer": "Edward the Confessor"
+    },
+    {
+      "question": "What was the key battle of 1066?",
+      "choices": ["Battle of Bannockburn", "Battle of Agincourt", "Battle of Stamford Bridge", "Battle of Hastings"],
+      "answer": "Battle of Hastings"
+    },
+    {
+      "question": "Who was defeated at the Battle of Hastings?",
+      "choices": ["Harold Godwinson", "Edward the Confessor", "Canute", "William of Normandy"],
+      "answer": "Harold Godwinson"
+    },
+    {
+      "question": "What was one result of the Norman Conquest?",
+      "choices": ["Latin became the main language", "The monarchy was abolished", "French culture influenced England", "The Roman Empire was restored"],
+      "answer": "French culture influenced England"
+    },
+    {
+      "question": "What document was completed shortly after the Norman Conquest?",
+      "choices": ["Domesday Book", "Magna Carta", "Bill of Rights", "Anglo-Saxon Chronicle"],
+      "answer": "Domesday Book"
+    },
+    {
+      "question": "What religion did the Anglo-Saxons adopt?",
+      "choices": ["Islam", "Judaism", "Christianity", "Paganism"],
+      "answer": "Christianity"
+    },
+    {
+      "question": "Which kingdom did Alfred the Great rule?",
+      "choices": ["Mercia", "Northumbria", "Wessex", "Kent"],
+      "answer": "Wessex"
+    },
+    {
+      "question": "Why is the year 410 CE significant in British history?",
+      "choices": ["Roman conquest began", "Viking invasions started", "Romans withdrew from Britain", "Norman invasion began"],
+      "answer": "Romans withdrew from Britain"
+    },
+    {
+      "question": "Who built Hadrian's Wall?",
+      "choices": ["Hadrian", "Caesar", "Claudius", "Nero"],
+      "answer": "Hadrian"
+    },
+    {
+      "question": "What was the Anglo-Saxon Chronicle?",
+      "choices": ["A religious text", "A legal code", "A historical record", "A map"],
+      "answer": "A historical record"
+    },
+    {
+      "question": "What type of government existed in Anglo-Saxon England?",
+      "choices": ["Republic", "Feudal monarchy", "Democracy", "Military junta"],
+      "answer": "Feudal monarchy"
+    },
+    {
+      "question": "Which people did the Romans fight in northern Britain?",
+      "choices": ["Vikings", "Normans", "Picts", "Angles"],
+      "answer": "Picts"
+    },
+    {
+      "question": "What does 'Bretwalda' refer to?",
+      "choices": ["A Viking ship", "A Roman general", "An overlord Anglo-Saxon king", "A British tribe"],
+      "answer": "An overlord Anglo-Saxon king"
+    },
+    {
+      "question": "Which people founded the kingdom of Northumbria?",
+      "choices": ["Saxons", "Angles", "Jutes", "Romans"],
+      "answer": "Angles"
+    }
+  ]
+}

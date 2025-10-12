@@ -1,0 +1,33 @@
+{
+    "country": "Japan",
+    "level": 4,
+    "title": "The Meiji Restoration and Modernization",
+    "readingFile": "japan-level4.md",
+    "questions": [
+        { "question": "What event marked the end of Japan’s isolation?", "choices": ["Fall of Edo", "Arrival of Commodore Perry", "Meiji Constitution", "Battle of Tsushima"], "answer": "Arrival of Commodore Perry" },
+        { "question": "In what year did Commodore Perry arrive in Japan?", "choices": ["1845", "1853", "1868", "1877"], "answer": "1853" },
+        { "question": "Which treaty officially opened Japan to U.S. trade?", "choices": ["Treaty of Nanking", "Treaty of Edo", "Treaty of Kanagawa", "Treaty of Shimonoseki"], "answer": "Treaty of Kanagawa" },
+        { "question": "What was the political result of growing dissatisfaction with the shogunate?", "choices": ["Stronger shogunate", "Emperor deposed", "Restoration of imperial power", "Republic formed"], "answer": "Restoration of imperial power" },
+        { "question": "What is the name of the period that followed Tokugawa rule?", "choices": ["Edo", "Sengoku", "Meiji", "Heisei"], "answer": "Meiji" },
+        { "question": "In what year did the Meiji Restoration occur?", "choices": ["1853", "1868", "1877", "1889"], "answer": "1868" },
+        { "question": "What was Emperor Meiji’s full name?", "choices": ["Yoshinobu", "Mutsuhito", "Hirohito", "Komei"], "answer": "Mutsuhito" },
+        { "question": "What slogan expressed Japan’s modernization goals?", "choices": ["Glory to the Emperor", "Rich Country, Strong Army", "Samurai Forever", "Trade for Peace"], "answer": "Rich Country, Strong Army" },
+        { "question": "Which class was abolished during the Meiji reforms?", "choices": ["Farmers", "Samurai", "Merchants", "Artisans"], "answer": "Samurai" },
+        { "question": "What did the Charter Oath of 1868 promise?", "choices": ["Samurai restoration", "Democracy and equality", "Modernization and national unity", "Religious freedom"], "answer": "Modernization and national unity" },
+        { "question": "Which Western country served as a key model for Japan's army?", "choices": ["Britain", "France", "Germany", "USA"], "answer": "Germany" },
+        { "question": "Which Western country influenced Japan’s navy?", "choices": ["France", "Germany", "USA", "Britain"], "answer": "Britain" },
+        { "question": "What system replaced feudal domains under Meiji?", "choices": ["Shogunate", "Prefectures", "Provinces", "Feudal clans"], "answer": "Prefectures" },
+        { "question": "What kind of education was emphasized during the Meiji era?", "choices": ["Religious", "Samurai training", "Western-style modern education", "Craft guilds"], "answer": "Western-style modern education" },
+        { "question": "What constitution was issued in 1889?", "choices": ["Charter Oath", "Imperial Constitution", "People’s Constitution", "Tokugawa Edict"], "answer": "Imperial Constitution" },
+        { "question": "What type of monarchy did the Meiji Constitution create?", "choices": ["Absolute monarchy", "Symbolic monarchy", "Parliamentary monarchy", "Constitutional monarchy"], "answer": "Constitutional monarchy" },
+        { "question": "Which war showed Japan’s strength against China?", "choices": ["Russo-Japanese War", "Second Sino-Japanese War", "Satsuma Rebellion", "First Sino-Japanese War"], "answer": "First Sino-Japanese War" },
+        { "question": "What island was ceded to Japan after victory over China?", "choices": ["Korea", "Formosa (Taiwan)", "Hokkaido", "Okinawa"], "answer": "Formosa (Taiwan)" },
+        { "question": "Which rebellion in 1877 was led by discontented samurai?", "choices": ["Boshin War", "Satsuma Rebellion", "Sino-Japanese War", "Osaka Riots"], "answer": "Satsuma Rebellion" },
+        { "question": "Who led the Satsuma Rebellion?", "choices": ["Saigo Takamori", "Ito Hirobumi", "Yamagata Aritomo", "Okubo Toshimichi"], "answer": "Saigo Takamori" },
+        { "question": "Which industrial sector grew rapidly under Meiji policies?", "choices": ["Silk and textiles", "Automobiles", "Electronics", "Mining"], "answer": "Silk and textiles" },
+        { "question": "What ideology supported imperial loyalty and national unity?", "choices": ["Confucianism", "Shinto nationalism", "Zen Buddhism", "Capitalism"], "answer": "Shinto nationalism" },
+        { "question": "What was Japan’s main goal in modernization?", "choices": ["To preserve samurai tradition", "To equal Western powers", "To expand Buddhism", "To conquer China"], "answer": "To equal Western powers" },
+        { "question": "What term described Japan’s rapid Westernization?", "choices": ["Samurai revival", "Meiji leap", "Civilization and Enlightenment", "Eastern Progress"], "answer": "Civilization and Enlightenment" },
+        { "question": "What body of government was created by the Meiji Constitution?", "choices": ["Supreme Court", "Cabinet Council", "Diet (parliament)", "Imperial Council"], "answer": "Diet (parliament)" }
+    ]
+}

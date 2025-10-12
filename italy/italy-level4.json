@@ -1,0 +1,33 @@
+{
+    "country": "Italy",
+    "level": 4,
+    "title": "Unification and the Birth of a Nation",
+    "readingFile": "italy-level4.md",
+    "questions": [
+        { "question": "What is the term for the unification of Italy in the 19th century?", "choices": ["Risorgimento", "Renaissance", "Restoration", "Reformation"], "answer": "Risorgimento" },
+        { "question": "Who was the king of Sardinia who became the first king of unified Italy?", "choices": ["Victor Emmanuel I", "Victor Emmanuel II", "Charles Albert", "Napoleon III"], "answer": "Victor Emmanuel II" },
+        { "question": "Who was the prime minister of Piedmont-Sardinia and a key unification leader?", "choices": ["Giuseppe Garibaldi", "Giuseppe Mazzini", "Count Cavour", "Napoleon III"], "answer": "Count Cavour" },
+        { "question": "Which Italian revolutionary led the Red Shirts in southern Italy?", "choices": ["Garibaldi", "Cavour", "Mazzini", "Bismarck"], "answer": "Garibaldi" },
+        { "question": "What region did Garibaldi conquer in 1860?", "choices": ["Lombardy", "Papal States", "Kingdom of the Two Sicilies", "Venetia"], "answer": "Kingdom of the Two Sicilies" },
+        { "question": "Which movement promoted Italian nationalism and unification?", "choices": ["Carbonari", "Blackshirts", "Young Italy", "Roman Republic"], "answer": "Young Italy" },
+        { "question": "Who founded the Young Italy movement?", "choices": ["Garibaldi", "Mazzini", "Cavour", "Victor Emmanuel II"], "answer": "Mazzini" },
+        { "question": "What war helped Piedmont gain support from France?", "choices": ["Austro-Prussian War", "Franco-Prussian War", "Crimean War", "Seven Weeks' War"], "answer": "Crimean War" },
+        { "question": "Which empire ruled Lombardy and Venetia before unification?", "choices": ["Ottoman", "Spanish", "Austrian", "French"], "answer": "Austrian" },
+        { "question": "Which battle in 1859 helped Sardinia gain Lombardy?", "choices": ["Battle of Solferino", "Battle of Sedan", "Battle of Magenta", "Battle of Leipzig"], "answer": "Battle of Solferino" },
+        { "question": "What 1861 event marked a milestone in unification?", "choices": ["Garibaldi’s march on Rome", "Proclamation of the Kingdom of Italy", "Creation of the Roman Republic", "Treaty of Villafranca"], "answer": "Proclamation of the Kingdom of Italy" },
+        { "question": "Which city was declared the first capital of unified Italy?", "choices": ["Venice", "Florence", "Rome", "Turin"], "answer": "Turin" },
+        { "question": "When was Rome annexed to become the final capital of Italy?", "choices": ["1861", "1865", "1870", "1881"], "answer": "1870" },
+        { "question": "What event allowed Italy to take control of Rome in 1870?", "choices": ["Napoleon III's defeat", "Austrian retreat", "Garibaldi’s victory", "German unification"], "answer": "Napoleon III's defeat" },
+        { "question": "What was the political status of the Pope after Rome’s annexation?", "choices": ["Exiled monarch", "King of Italy", "Prisoner in the Vatican", "Italian senator"], "answer": "Prisoner in the Vatican" },
+        { "question": "What term refers to the Pope's refusal to recognize Italian rule?", "choices": ["Papal Protest", "Roman Standoff", "Non Expedit", "Vatican Decree"], "answer": "Non Expedit" },
+        { "question": "What form of government was established in unified Italy?", "choices": ["Republic", "Constitutional monarchy", "Empire", "Dictatorship"], "answer": "Constitutional monarchy" },
+        { "question": "What was a major economic challenge after unification?", "choices": ["Overpopulation", "Debt to France", "North-South divide", "Lack of clergy"], "answer": "North-South divide" },
+        { "question": "What did Garibaldi famously say when meeting Victor Emmanuel II?", "choices": ["Italy is free!", "Here is your kingdom", "I salute you", "I obey"], "answer": "I obey" },
+        { "question": "Which 1866 war helped Italy gain Venetia?", "choices": ["Crimean War", "Franco-Prussian War", "Austro-Prussian War", "Italo-Turkish War"], "answer": "Austro-Prussian War" },
+        { "question": "What was the political strategy of Cavour known as?", "choices": ["Realpolitik", "Papal diplomacy", "National socialism", "Liberal nationalism"], "answer": "Liberal nationalism" },
+        { "question": "What was the name of the Papal territory annexed by Italy?", "choices": ["Papal Duchy", "Holy State", "Vatican Kingdom", "Papal States"], "answer": "Papal States" },
+        { "question": "Which of the following best describes Mazzini’s vision for Italy?", "choices": ["Monarchical", "Conservative", "Republican", "Federal"], "answer": "Republican" },
+        { "question": "What symbol did Italian nationalists often use?", "choices": ["Red rose", "Tricolor flag", "Laurel wreath", "Crossed swords"], "answer": "Tricolor flag" },
+        { "question": "When was the modern Kingdom of Italy officially proclaimed?", "choices": ["1859", "1860", "1861", "1871"], "answer": "1861" }
+    ]
+}

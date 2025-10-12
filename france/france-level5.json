@@ -1,0 +1,33 @@
+{
+    "country": "France",
+    "level": 5,
+    "title": "Napoleonic Wars, Reign of Terror, and Bourbon Restoration",
+    "readingFile": "france-level5.md",
+    "questions": [
+        { "question": "In what year did the French Revolution begin?", "choices": ["1776", "1789", "1799", "1804"], "answer": "1789" },
+        { "question": "What prison was stormed on July 14, symbolizing the start of the revolution?", "choices": ["The Tuileries", "Bastille", "Versailles", "Mont Saint-Michel"], "answer": "Bastille" },
+        { "question": "What document proclaimed liberty, equality, and fraternity?", "choices": ["Concordat", "Declaration of the Rights of Man", "Civil Constitution of the Clergy", "Treaty of Paris"], "answer": "Declaration of the Rights of Man" },
+        { "question": "Who was king of France at the start of the Revolution?", "choices": ["Louis XV", "Louis XVI", "Louis XIV", "Napoleon"], "answer": "Louis XVI" },
+        { "question": "What estate did the commoners belong to before the revolution?", "choices": ["First Estate", "Second Estate", "Third Estate", "Fourth Estate"], "answer": "Third Estate" },
+        { "question": "What was the result of the Women's March on Versailles?", "choices": ["Execution of the Queen", "King moved to Paris", "End of monarchy", "Storming of Bastille"], "answer": "King moved to Paris" },
+        { "question": "What government body ruled France during the Reign of Terror?", "choices": ["Directory", "Legislative Assembly", "National Convention", "Consulate"], "answer": "National Convention" },
+        { "question": "Who led the Reign of Terror?", "choices": ["Louis XVI", "Napoleon", "Robespierre", "Danton"], "answer": "Robespierre" },
+        { "question": "What happened to Louis XVI during the revolution?", "choices": ["He fled to Austria", "He was exiled", "He was executed", "He became president"], "answer": "He was executed" },
+        { "question": "What radical journalist was murdered in his bath?", "choices": ["Robespierre", "Danton", "Marat", "Necker"], "answer": "Marat" },
+        { "question": "What political club was Robespierre associated with?", "choices": ["Jacobins", "Cordeliers", "Girondins", "Montagnards"], "answer": "Jacobins" },
+        { "question": "Who ruled France after the fall of the monarchy and before Napoleon?", "choices": ["The Estates General", "The Committee of Public Safety", "The Directory", "The Girondins"], "answer": "The Directory" },
+        { "question": "What constitution attempted to limit the king’s power in 1791?", "choices": ["Constitution of Year I", "Napoleonic Code", "Declaration of Pillnitz", "Constitution of 1791"], "answer": "Constitution of 1791" },
+        { "question": "Who crowned himself emperor in 1804?", "choices": ["Louis XVIII", "Robespierre", "Napoleon Bonaparte", "Charles X"], "answer": "Napoleon Bonaparte" },
+        { "question": "What was the name of Napoleon’s legal reform?", "choices": ["Concordat", "Napoleonic Code", "Civil Code of Rome", "Parisian Charter"], "answer": "Napoleonic Code" },
+        { "question": "What military tactic helped Napoleon dominate Europe?", "choices": ["Total war", "Guerrilla warfare", "Mass conscription", "Divide and conquer"], "answer": "Mass conscription" },
+        { "question": "Which battle marked Napoleon’s final defeat?", "choices": ["Austerlitz", "Leipzig", "Trafalgar", "Waterloo"], "answer": "Waterloo" },
+        { "question": "What island was Napoleon first exiled to?", "choices": ["Sardinia", "Elba", "Corsica", "St. Helena"], "answer": "Elba" },
+        { "question": "Where was Napoleon exiled after his final defeat?", "choices": ["Corsica", "Elba", "Sicily", "St. Helena"], "answer": "St. Helena" },
+        { "question": "Who ruled France directly after Napoleon's final defeat?", "choices": ["Napoleon II", "Louis XVIII", "Robespierre", "Charles X"], "answer": "Louis XVIII" },
+        { "question": "Which French queen was executed during the revolution?", "choices": ["Anne of Austria", "Marie Antoinette", "Catherine de Medici", "Josephine"], "answer": "Marie Antoinette" },
+        { "question": "Which Enlightenment idea most influenced the revolution?", "choices": ["Mercantilism", "Divine right", "Popular sovereignty", "Feudal obligation"], "answer": "Popular sovereignty" },
+        { "question": "What year was Napoleon defeated at Waterloo?", "choices": ["1812", "1814", "1815", "1821"], "answer": "1815" },
+        { "question": "Which event symbolizes the collapse of monarchy?", "choices": ["Storming of Bastille", "Women's March", "Execution of Louis XVI", "Battle of Valmy"], "answer": "Execution of Louis XVI" },
+        { "question": "What was a lasting effect of the revolution?", "choices": ["Return to feudalism", "Strengthened monarchy", "Modern secular republic", "French empire expanded"], "answer": "Modern secular republic" }
+    ]
+}
